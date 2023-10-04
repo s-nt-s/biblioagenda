@@ -47,10 +47,8 @@ function filtrar() {
         //setHide(z, zona);
         //setHide(t, tipo);
         const hide = (() => {
-            if (zona.length!=0 && (
-                (zona!=z.getAttribute("data-zona")) &&
-                (zona=="madrid" && z.getAttribute("data-madrid")!="true")
-            )) return true;
+            const izona = z.getAttribute("data-zona").split(/\s+/g);
+            if (zona.length!=0 && !izona.includes(zona)) return true;
             if (tipo.length!=0 && tipo!=t.getAttribute("data-tipo")) return true;
             return false;
         })();

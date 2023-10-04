@@ -2,7 +2,6 @@ from .web import Web
 from .item import Item, Biblio, Info
 from bs4 import Tag
 import re
-from typing import Tuple, NamedTuple
 
 re_sp = re.compile(r"\s+")
 
@@ -10,7 +9,7 @@ re_sp = re.compile(r"\s+")
 def get_text(n: Tag):
     t = n.get_text()
     t = re_sp.sub(" ", t)
-    t = re.sub(r'“”', '"', t)
+    t = re.sub(r'[“”]', '"', t)
     return t.strip()
 
 

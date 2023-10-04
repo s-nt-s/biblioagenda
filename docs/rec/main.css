@@ -202,4 +202,5 @@ div.grid {
   display: inline-grid;
   grid-template-columns: auto auto auto auto;
   grid-column-gap: 1em;
+  grid-row-gap: 0.3em;
 }

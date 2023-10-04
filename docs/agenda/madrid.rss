@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/madrid.rss</link>
 		<description>Agenda de las bibliotecas de Madrid</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 04 Oct 2023 22:11:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Oct 2023 22:54:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -765,7 +765,7 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958612203&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Taller teórico/práctico “Mi primera clase de ballet”</title>
+			<title>Taller teórico/práctico &quot;Mi primera clase de ballet&quot;</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958789873&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>12:00 - 2023-10-08-D,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
 			<category>Taller</category>

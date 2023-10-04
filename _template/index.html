@@ -59,6 +59,7 @@
       </thead>
       <tbody>
       {% for p in items %}
+      {% set b = info.get_biblio(p) %}
       <tr>
         <td>{{p.hora}}</td>
         <td>{{"<br/>".join(p.fecha) | safe}}</td>
@@ -68,8 +69,8 @@
         {#<td>{{p.edad}}</td>#}
         {#<td>{{p.tipo}}</td>#}
         <td>
-          <span data-zona="{{info.get_biblio(p).zona | simplify}}" data-madrid="{{info.get_biblio(p).is_madrid | lower}}">{{', '.join(info.get_biblio(p).zonas)}}</span><br/>
-          <a href="{{info.get_biblio(p).url}}">{{p.lugar}}</a></td>
+          <span data-zona="{{b.zona | simplify}}{{' madrid' if b.is_madrid else ''}}">{{', '.join(b.zonas)}}</span><br/>
+          <a href="{{b.url}}">{{p.lugar}}</a></td>
       </tr>
       {% endfor %}
       </tbody>

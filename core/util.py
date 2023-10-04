@@ -4,7 +4,6 @@ import dataclasses
 from typing import NamedTuple
 from os import makedirs
 from os.path import dirname
-import json
 import simplejson
 
 
