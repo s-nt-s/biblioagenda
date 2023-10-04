@@ -54,14 +54,14 @@ j.save(
 AgendaRss(
     destino="docs/",
     root="https://s-nt-s.github.io/biblioagenda",
-    items=INFO.events
+    info=INFO
 ).save("agenda.rss")
 
 
 AgendaRss(
     destino="docs/agenda/",
     root="https://s-nt-s.github.io/biblioagenda",
-    items=INFO.filter(lambda i, b: b.is_madrid).events,
+    info=INFO.filter(lambda i, b: b.is_madrid),
     title="Biblio Agenda (Madrid)",
     description="Agenda de las bibliotecas de Madrid"
 ).save("madrid.rss")
@@ -72,7 +72,7 @@ for zona in INFO.get_zonas():
     AgendaRss(
         destino="docs/agenda/",
         root="https://s-nt-s.github.io/biblioagenda",
-        items=INFO.filter(zfltr).events,
+        info=INFO.filter(zfltr),
         title=f"Biblio Agenda ({zona})",
         description="Agenda de las bibliotecas de "+zona
     ).save(simplify(zona)+".rss")

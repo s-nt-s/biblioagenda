@@ -6,7 +6,7 @@ import re
 import os
 
 
-from .item import Item
+from .item import Info
 
 re_last_modified = re.compile(
     r'^\s*<lastBuildDate>[^>]+</lastBuildDate>\s*$',
@@ -19,12 +19,12 @@ class AgendaRss:
             self,
             destino,
             root: str,
-            items: list[Item],
+            info: Info,
             title="Biblio Agenda",
             description="Agenda de las bibliotecas de la Comunidad de Madrid"
     ):
         self.root = root
-        self.items = items
+        self.info = info
         self.destino = destino
         self.title = title
         self.description = description
@@ -71,14 +71,14 @@ class AgendaRss:
         return rss
 
     def iter_items(self):
-        for p in self.items:
+        for p in self.info.events:
+            b = self.info.kwbiblio[p.biblioteca]
             yield rfeed.Item(
-                title=f'{p.actividad}',
+                title=f'{p.tipoactividad}',
                 link=p.url,
                 description=dedent(f'''
-                    {p.biblioteca},
-                    {p.tipo} - {p.edad},
-                    {p.hora} - {' - '.join(p.fecha)}
+                    {p.hora} - {' - '.join(p.fecha)},
+                    {b.zona} - {p.biblioteca}
                 ''').strip().replace("\n", "<br/>"),
                 guid=rfeed.Guid(p.url),
                 # pubDate=datetime(*map(int, p.fecha.split("-"))),

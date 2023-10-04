@@ -228,6 +228,16 @@ class Item(NamedTuple):
                 return v + ' ' + lugar
         return lugar
 
+    @property
+    def tipoactividad(self):
+        a = self.actividad.lower()
+        if a.split()[0] in "club taller visita itinerario debate jornada".split():
+            return self.actividad
+        if self.tipo == self.actividad:
+            return self.actividad
+        tipo = self.tipo.split(" o ")[0]
+        return tipo+': '+self.actividad
+
 
 class Info(NamedTuple):
     events: Tuple[Item]
