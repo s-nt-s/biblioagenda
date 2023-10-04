@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>Biblio Agenda (Morata de Tajuña)</title>
+		<link>https://s-nt-s.github.io/biblioagenda/morata-de-tajuna.rss</link>
+		<description>Agenda de las bibliotecas de Morata de Tajuña</description>
+		<language>es-ES</language>
+		<lastBuildDate>Wed, 04 Oct 2023 21:40:50 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Corrección de textos</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958759499&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>Biblioteca Municipal de Morata de Tajuña,&lt;br/&gt;Taller - Jóvenes y adultos,&lt;br/&gt;18:00 - 2023-11-17-V</description>
+			<category>Taller</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958759499&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+	</channel>
+</rss>

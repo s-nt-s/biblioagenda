@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html LANG="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<meta http-equiv="Last-Modified" content="{{now.strftime('%Y-%m-%d %H:%M:%S')}}">
+    <link rel="alternate" type="application/rss+xml" 
+      title="RSS Biblio Agenda" 
+      href="./agenda.rss"
+    />
+    <title>Biblio Agenda</title>
+    <link rel="stylesheet" href="rec/main.css">
+    <script type="text/javascript" src="rec/sort_table.js"></script>
+    <script src="rec/main.js" type="text/javascript"></script>
+  </head>
+  <body>
+  <main>
+    {% set edades = info.events|map(attribute='edad')|unique|sort %}
+    <p>
+      Actividades en bibliotecas de Madrid
+      para <abbr title="{{', '.join(edades)}}">adultos</abbr>
+      en horario de tarde o en fin de semana.
+    </p>
+  <p>Puedes suscribirte a este <a href="agenda.rss" class="rss">RSS</a>
+    para recibir actualizaciones.</p>
+
+
+  {% set zonas = info.biblios|map(attribute='zona')|unique|sort %}
+  {% set tipos = info.events|map(attribute='tipo')|unique|sort %}
+  <p>
+    <label for="zona">Zona</label>: <select id="zona">
+      <option value="">TODAS</option>
+      <option value="madrid">Madrid municipio</option>
+      {% for x in zonas %}
+      <option value="{{x|simplify}}">{{x}}</option>
+      {% endfor %}
+    </select>
+
+    <label for="tipo">Tipo</label>: <select id="tipo">
+      <option value="">TODOS</option>
+      {% for x in tipos %}
+      <option value="{{x|simplify}}">{{x}}</option>
+      {% endfor %}
+    </select>
+  </p>
+
+  {% set items = info.events|sort(attribute='tipo, actividad') %}
+    <table>
+      <thead>
+        <tr class="sortme">
+          <th class="isSortable str">Hora</th>
+          <th class="isSortable str">Fecha</th>
+          <th class="isSortable str isSortedByMe">Actividad</th>
+          {#<th class="isSortable str">Edad</th>#}
+          {#<th class="isSortable str">Tipo</th>#}
+          <th class="isSortable str">Lugar</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for p in items %}
+      <tr>
+        <td>{{p.hora}}</td>
+        <td>{{"<br/>".join(p.fecha) | safe}}</td>
+        <td>
+          <span data-tipo="{{p.tipo | simplify}}">{{p.tipo}}</span><br/>
+          <a href="{{p.url}}">{{p.actividad}}</a></td>
+        {#<td>{{p.edad}}</td>#}
+        {#<td>{{p.tipo}}</td>#}
+        <td>
+          <span data-zona="{{info.get_biblio(p).zona | simplify}}" data-madrid="{{info.get_biblio(p).is_madrid | lower}}">{{', '.join(info.get_biblio(p).zonas)}}</span><br/>
+          <a href="{{info.get_biblio(p).url}}">{{p.lugar}}</a></td>
+      </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    <fieldset>
+      <legend>RSS por zonas</legend>
+      <div class="grid">
+        <a href="agenda/madrid.rss" class="rss">Madrid Municipio</p>
+      {% for zona in info.get_zonas() %}
+        <a href="agenda/{{zona|simplify}}.rss" class="rss">{{zona}}</p>
+      {% endfor %}
+      </div>
+    </fieldset>
+  </main>
+	<footer>
+		<p>
+		Código fuente en <a href="https://github.com/s-nt-s/biblioagenda">GitHub</a>.
+    Si falla o tienes alguna sugerencia pon un <a href="https://github.com/s-nt-s/biblioagenda/issues">issue</a>.
+		</p>
+	</footer>
+  </body>
+</html>

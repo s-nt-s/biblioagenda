@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>Biblio Agenda (Hortaleza)</title>
+		<link>https://s-nt-s.github.io/biblioagenda/hortaleza.rss</link>
+		<description>Agenda de las bibliotecas de Hortaleza</description>
+		<language>es-ES</language>
+		<lastBuildDate>Wed, 04 Oct 2023 21:40:50 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Club de lectura</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958560258&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>Biblioteca Pública Hortaleza,&lt;br/&gt;Club de lectura - Jóvenes y adultos,&lt;br/&gt;18:00 - 2023-10-03-M</description>
+			<category>Club de lectura</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958560258&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+	</channel>
+</rss>
