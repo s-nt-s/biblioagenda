@@ -22,7 +22,7 @@ class AgendaRss:
             items: list[Item],
             title="Biblio Agenda",
             description="Agenda de las bibliotecas de la Comunidad de Madrid"
-        ):
+    ):
         self.root = root
         self.items = items
         self.destino = destino
