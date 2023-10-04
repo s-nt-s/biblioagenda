@@ -48,7 +48,8 @@ j.save(
     "index.html",
     "index.html",
     info=INFO,
-    now=now
+    now=now,
+    favicon="📅"
 )
 
 AgendaRss(
