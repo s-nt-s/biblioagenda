@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>Biblio Agenda (Camarma de Esteruelas)</title>
+		<link>https://s-nt-s.github.io/biblioagenda/camarma-de-esteruelas.rss</link>
+		<description>Agenda de las bibliotecas de Camarma de Esteruelas</description>
+		<language>es-ES</language>
+		<lastBuildDate>Thu, 05 Oct 2023 09:32:47 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Exposición: XXXVIII Muestra del Libro Infantil y Juvenil</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958372850&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>15:00 - 2023-11-23-J - 2023-11-29-X,&lt;br/&gt;Camarma de Esteruelas - Biblioteca Municipal de Camarma de Esteruelas</description>
+			<category>Exposición</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958372850&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+	</channel>
+</rss>

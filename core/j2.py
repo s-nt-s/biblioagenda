@@ -14,6 +14,15 @@ re_last_modified = re.compile(
 )
 
 
+def myjoin(oy, arr):
+    if len(arr) == 0:
+        return ''
+    if len(arr) == 1:
+        return arr[0]
+    s = ', '.join(arr[:-1])+' '+oy+' '+arr[-1]
+    return s
+
+
 def millar(value):
     if value is None:
         return "----"
@@ -64,6 +73,8 @@ class Jnj2():
         self.j2_env.filters['millar'] = millar
         self.j2_env.filters['decimal'] = decimal
         self.j2_env.filters['simplify'] = simplify
+        self.j2_env.filters['ojoin'] = lambda x: myjoin('o', x)
+        self.j2_env.filters['yjoin'] = lambda x: myjoin('y', x)
         self.j2_env.filters['round'] = lambda x: round(
             x) if x is not None else None
         self.destino = destino

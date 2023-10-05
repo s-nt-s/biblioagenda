@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/agenda.rss</link>
 		<description>Agenda de las bibliotecas de la Comunidad de Madrid</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 04 Oct 2023 22:54:48 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Oct 2023 09:32:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1001,6 +1001,20 @@
 			<description>16:00 - 2023-10-05-J - 2023-10-11-X,&lt;br/&gt;Pinto - Biblioteca Municipal Javier Lapeña (La Tenería)</description>
 			<category>Exposición</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958255814&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Exposición: XXXVIII Muestra del Libro Infantil y Juvenil</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958373392&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>15:00 - 2023-11-30-J - 2023-12-13-X,&lt;br/&gt;Leganés - Biblioteca Municipal Julio Caro Baroja</description>
+			<category>Exposición</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958373392&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Exposición: XXXVIII Muestra del Libro Infantil y Juvenil</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958372850&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>15:00 - 2023-11-23-J - 2023-11-29-X,&lt;br/&gt;Camarma de Esteruelas - Biblioteca Municipal de Camarma de Esteruelas</description>
+			<category>Exposición</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958372850&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Exposición: XXXVIII Muestra del Libro Infantil y Juvenil</title>

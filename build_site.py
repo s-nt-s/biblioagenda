@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from bs4 import BeautifulSoup, Tag
 from core.j2 import Jnj2, simplify
+from core.plector import PortalLector
 from core.rss import AgendaRss
 from core.web import get_text
 from core.item import Info, Item, Biblio
@@ -40,6 +41,7 @@ def readhtml(path: str):
 def fltr(i: Item, b: Biblio):
     return i.is_adulto and i.is_tarde_o_finde and not i.is_cancelado
 
+
 INFO = readjs("docs/agenda.json").filter(fltr)
 
 now = datetime.now()
@@ -49,7 +51,11 @@ j.save(
     "index.html",
     info=INFO,
     now=now,
-    favicon="📅"
+    favicon="📅",
+    url=dict(
+        agenda=PortalLector.AGENDA,
+        regional=PortalLector.REGIONAL
+    )
 )
 
 AgendaRss(

@@ -13,13 +13,14 @@
     <script type="text/javascript" src="rec/sort_table.js"></script>
     <script src="rec/main.js" type="text/javascript"></script>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{favicon}}</text></svg>">
+    <base target="_blank">
   </head>
   <body>
   <main>
     {% set edades = info.events|map(attribute='edad')|unique|sort %}
     <p>
       Actividades en bibliotecas de Madrid
-      para <abbr title="{{', '.join(edades)}}">adultos</abbr>
+      para <abbr title="{{edades | ojoin}}">adultos</abbr>
       en horario de tarde o en fin de semana.
     </p>
   <p>Puedes suscribirte a este <a href="agenda.rss" class="rss">RSS</a>
@@ -84,6 +85,13 @@
       {% endfor %}
       </div>
     </fieldset>
+    <p>
+      Los eventos han sido extraídos y filtrados 
+      <a href="{{url.agenda}}">del portal del lector</a> y 
+      <a href="{{url.regional}}">la biblioteca regional</a>,
+      si quiere consultar el listado completo acuda a las
+      webs de origen.
+    </p>
   </main>
 	<footer>
 		<p>
