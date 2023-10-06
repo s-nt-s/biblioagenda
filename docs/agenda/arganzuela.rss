@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/arganzuela.rss</link>
 		<description>Agenda de las bibliotecas de Arganzuela</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 04 Oct 2023 22:11:15 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Oct 2023 09:09:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,20 +51,6 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958470060&amp;language=es&amp;pageid=1343065588936&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588936</guid>
 		</item>
 		<item>
-			<title>Conferencia: Memoria de un teatro necesario</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958375918&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:30 - 2023-10-05-J,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958375918&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Conferencia: Memoria de un teatro necesario</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958375918&amp;language=es&amp;pageid=1343065588936&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588936</link>
-			<description>18:30 - 2023-10-05-J,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958375918&amp;language=es&amp;pageid=1343065588936&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588936</guid>
-		</item>
-		<item>
 			<title>Conferencia: Retrato del joven escritor Juan Luis Alborg. Epistolario durante la Guerra Civil</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958855311&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:30 - 2023-10-16-L,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
@@ -77,6 +63,20 @@
 			<description>18:30 - 2023-10-16-L,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
 			<category>Conferencia o mesa redonda</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958855311&amp;language=es&amp;pageid=1343065588936&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588936</guid>
+		</item>
+		<item>
+			<title>Conferencia: Una maleta cargada</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958952081&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:30 - 2023-10-10-M,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958952081&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Conferencia: Una maleta cargada</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958952081&amp;language=es&amp;pageid=1343065588936&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588936</link>
+			<description>18:30 - 2023-10-10-M,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958952081&amp;language=es&amp;pageid=1343065588936&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588936</guid>
 		</item>
 		<item>
 			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>

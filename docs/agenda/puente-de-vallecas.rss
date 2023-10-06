@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/puente-de-vallecas.rss</link>
 		<description>Agenda de las bibliotecas de Puente de Vallecas</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 04 Oct 2023 22:11:15 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Oct 2023 09:09:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,16 +37,9 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958734808&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Club de lectura: Madrid lee teatro</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958559593&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-05-J,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958559593&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
 			<title>Encuentro con autor: Marta Robles</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958888329&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:30 - 2023-10-23-L,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
+			<description>19:00 - 2023-10-23-L,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
 			<category>Encuentro con autor</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958888329&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
