@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/centro.rss</link>
 		<description>Agenda de las bibliotecas de Centro</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 06 Oct 2023 09:09:36 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 07 Oct 2023 20:00:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -42,13 +42,6 @@
 			<description>11:30 - 2023-10-07-S,&lt;br/&gt;Centro - Unidad Central de Bibliotecas Públicas (Comunidad de Madrid)</description>
 			<category>Itinerario cultural</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958599344&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Itinerario Antonio Palacios, creador del Madrid cosmopolita</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958599285&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>17:30 - 2023-10-06-V,&lt;br/&gt;Centro - Unidad Central de Bibliotecas Públicas (Comunidad de Madrid)</description>
-			<category>Itinerario cultural</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958599285&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Conferencia: La crisis de 1917</title>
