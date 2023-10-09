@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/madrid.rss</link>
 		<description>Agenda de las bibliotecas de Madrid</description>
 		<language>es-ES</language>
-		<lastBuildDate>Sun, 08 Oct 2023 05:09:52 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Oct 2023 05:10:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -514,24 +514,10 @@
 		</item>
 		<item>
 			<title>Club de lectura: Novela Gráfica. Otra forma de leer</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958577776&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>12:00 - 2023-10-08-D,&lt;br/&gt;Villa de Vallecas - Biblioteca Pública Villa de Vallecas Luis Martín-Santos</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958577776&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Club de lectura: Novela Gráfica. Otra forma de leer</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958578288&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:00 - 2023-10-09-L,&lt;br/&gt;Villa de Vallecas - Biblioteca Pública Villa de Vallecas Luis Martín-Santos</description>
 			<category>Club de lectura</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958578288&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Espectáculo: Obra de teatro El final del principio</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958900356&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>17:00 - 2023-10-08-D,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
-			<category>Espectáculo</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958900356&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Taller de escritura: Poesía</title>
@@ -616,13 +602,6 @@
 			<description>18:30 - 2023-11-16-J,&lt;br/&gt;Centro - Biblioteca Pública Centro Pedro Salinas</description>
 			<category>Conferencia o mesa redonda</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958612203&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Taller teórico/práctico &quot;Mi primera clase de ballet&quot;</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958789873&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>12:00 - 2023-10-08-D,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
-			<category>Taller</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958789873&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Jornada: Tarde de juegos de mesa</title>
