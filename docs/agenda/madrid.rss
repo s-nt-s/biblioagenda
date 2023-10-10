@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/madrid.rss</link>
 		<description>Agenda de las bibliotecas de Madrid</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 09 Oct 2023 05:10:34 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Oct 2023 05:10:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -58,6 +58,13 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958575515&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
+			<title>Taller: BiblioRepair</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958982358&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>17:00 - 2023-11-11-S,&lt;br/&gt;Usera - Biblioteca Pública Usera José Hierro</description>
+			<category>Taller</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958982358&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
 			<title>Exposición: Buero será su obra</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958470302&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>10:00 - 2023-07-11-M - 2023-10-22-D,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
@@ -107,25 +114,11 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958644038&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Club virtual de lectura: La mujer rota</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958747296&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-09-L,&lt;br/&gt;Centro - Unidad Central de Bibliotecas Públicas (Comunidad de Madrid)</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958747296&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
 			<title>Visita a la biblioteca: Conoce tu biblioteca</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958853652&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>19:00 - 2023-10-24-M,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
 			<category>Visita a la biblioteca</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958853652&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Visita a la biblioteca: Conoce tu biblioteca para entidades</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958852946&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>17:00 - 2023-10-09-L,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
-			<category>Visita a la biblioteca</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958852946&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Taller: Corrección de textos</title>
@@ -331,6 +324,13 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958375991&amp;language=es&amp;pageid=1343065588936&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588936</guid>
 		</item>
 		<item>
+			<title>Conferencia: Extinción: fin de una especie</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958997055&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-30-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958997055&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
 			<title>Conferencia: Familias, menores, redes sociales y pornografía</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958858993&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>12:00 - 2023-11-04-S,&lt;br/&gt;Usera - Biblioteca Pública Usera José Hierro</description>
@@ -408,20 +408,6 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958609915&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Taller de escritura: Las claves del relato: cómo se escribe un cuento</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958644053&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>17:30 - 2023-10-09-L,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Taller de escritura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958644053&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Club de lectura: Las librerías son para soñar</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958576439&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-09-L,&lt;br/&gt;Centro - Biblioteca Pública Centro Pedro Salinas</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958576439&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
 			<title>Conferencia: Las mujeres en el cementerio civil de Madrid</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958877482&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:30 - 2023-10-30-L,&lt;br/&gt;Retiro - Biblioteca Pública Retiro Elena Fortún</description>
@@ -464,13 +450,6 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958804493&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Club de lectura: Los Insólitos</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958866604&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>16:00 - 2023-10-09-L,&lt;br/&gt;Retiro - Biblioteca Pública Retiro Elena Fortún</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958866604&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
 			<title>Encuentro con autor: Marta Robles</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958888329&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>19:00 - 2023-10-23-L,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
@@ -499,32 +478,11 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958643135&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Club de lectura: Narrativa francesa contemporánea</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958576892&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-09-L,&lt;br/&gt;Chamberí - Biblioteca Pública Chamberí José Luis Sampedro</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958576892&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
 			<title>Taller de escritura: Narrativa humorística</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958645630&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:00 - 2023-10-11-X,&lt;br/&gt;Chamberí - Biblioteca Pública Chamberí José Luis Sampedro</description>
 			<category>Taller de escritura</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958645630&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Club de lectura: Novela Gráfica. Otra forma de leer</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958578288&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-09-L,&lt;br/&gt;Villa de Vallecas - Biblioteca Pública Villa de Vallecas Luis Martín-Santos</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958578288&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Taller de escritura: Poesía</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958646192&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-09-L,&lt;br/&gt;Latina - Biblioteca Pública Latina Antonio Mingote</description>
-			<category>Taller de escritura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958646192&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Concurso: Premios Fotolectura 2023</title>
@@ -630,6 +588,13 @@
 			<description>19:30 - 2023-10-19-J,&lt;br/&gt;Retiro - Biblioteca Pública Retiro Elena Fortún</description>
 			<category>Recital o lectura en público</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958791413&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Conferencia: Tu camino, tu creación: charla de autoayuda</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958998105&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-22-X,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958998105&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Conferencia: Una maleta cargada</title>
@@ -751,25 +716,11 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958791521&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Club de lectura: Y encuentro con Don Winslow</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958889978&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:30 - 2023-10-09-L,&lt;br/&gt;Retiro - Biblioteca Pública Retiro Elena Fortún</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958889978&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
 			<title>Presentación de libro: Ya calló la lluvia</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958898015&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:30 - 2023-11-17-V,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
 			<category>Presentación de libro</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958898015&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Conferencia: ¿Duelo?, cómo evitar un problema de salud mental</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958846569&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-09-L,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958846569&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 	</channel>
 </rss>

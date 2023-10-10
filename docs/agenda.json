@@ -192,6 +192,17 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958575515&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
+      "actividad": "BiblioRepair",
+      "edad": "J\u00f3venes y adultos",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
+      "hora": "17:00",
+      "fechas": [
+        "2023-11-11"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958982358&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
       "actividad": "Buero ser\u00e1 su obra",
       "edad": "Para todos los p\u00fablicos",
       "tipo": "Exposici\u00f3n",
@@ -311,7 +322,7 @@
       "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
       "hora": "16:30",
       "fechas": [
-        "2023-11-29"
+        "2023-11-28"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958690182&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
@@ -325,17 +336,6 @@
         "2023-10-10"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958558641&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "actividad": "Club virtual de lectura: La mujer rota",
-      "edad": "Adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Unidad Central de Bibliotecas P\u00fablicas (Comunidad de Madrid)",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958747296&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "actividad": "Collage: con papeles y a lo loco",
@@ -391,28 +391,6 @@
         "2023-11-23"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958975005&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "actividad": "Conoce tu biblioteca para entidades",
-      "edad": "Adultos",
-      "tipo": "Visita a la biblioteca",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "10:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958852031&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "actividad": "Conoce tu biblioteca para entidades",
-      "edad": "Adultos",
-      "tipo": "Visita a la biblioteca",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "17:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958852946&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "actividad": "Correcci\u00f3n de textos",
@@ -1152,6 +1130,17 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958847002&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
+      "actividad": "Extinci\u00f3n: fin de una especie",
+      "edad": "J\u00f3venes y adultos",
+      "tipo": "Conferencia o mesa redonda",
+      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-30"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958997055&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
       "actividad": "Fact checking: como detectar noticias falsas en los medios de comunicaci\u00f3n",
       "edad": "Adultos",
       "tipo": "Taller",
@@ -1224,7 +1213,7 @@
       "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
       "hora": "11:30",
       "fechas": [
-        "2023-11-30"
+        "2023-11-28"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958689717&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
@@ -1471,39 +1460,6 @@
         "2023-11-10"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958914117&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "actividad": "Las claves del relato: c\u00f3mo se escribe un cuento",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller de escritura",
-      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958644053&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "actividad": "Las claves del relato: c\u00f3mo se escribe un cuento",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller de escritura",
-      "biblioteca": "Biblioteca P\u00fablica Villa de Vallecas Luis Mart\u00edn-Santos",
-      "hora": "10:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958644142&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "actividad": "Las librer\u00edas son para so\u00f1ar",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Biblioteca P\u00fablica Centro Pedro Salinas",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958576439&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "actividad": "Las mujeres en el cementerio civil de Madrid",
@@ -1772,17 +1728,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958570779&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "actividad": "Los Ins\u00f3litos",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Biblioteca P\u00fablica Retiro Elena Fort\u00fan",
-      "hora": "16:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958866604&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "actividad": "Los animales cuentan",
       "edad": "Infantil",
       "tipo": "Cuentacuentos",
@@ -1985,17 +1930,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958643135&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "actividad": "Narrativa francesa contempor\u00e1nea",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958576892&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "actividad": "Narrativa humor\u00edstica",
       "edad": "J\u00f3venes y adultos",
       "tipo": "Taller de escritura",
@@ -2018,17 +1952,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958889403&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "actividad": "Novela Gr\u00e1fica. Otra forma de leer",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Biblioteca P\u00fablica Villa de Vallecas Luis Mart\u00edn-Santos",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958578288&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "actividad": "Phanton Manor",
       "edad": "Infantil",
       "tipo": "Cuentacuentos",
@@ -2038,17 +1961,6 @@
         "2023-10-28"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958847120&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "actividad": "Poes\u00eda",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller de escritura",
-      "biblioteca": "Biblioteca P\u00fablica Latina Antonio Mingote",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958646192&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "actividad": "Poes\u00eda y Flamenco",
@@ -2689,6 +2601,17 @@
         "2023-10-14"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958613026&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "actividad": "Tu camino, tu creaci\u00f3n: charla de autoayuda",
+      "edad": "J\u00f3venes y adultos",
+      "tipo": "Conferencia o mesa redonda",
+      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-22"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958998105&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "actividad": "Un ni\u00f1o, un perro, un gato y un pollo",
@@ -3458,17 +3381,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958354274&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "actividad": "Y encuentro con Don Winslow",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Biblioteca P\u00fablica Retiro Elena Fort\u00fan",
-      "hora": "18:30",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958889978&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "actividad": "Ya call\u00f3 la lluvia",
       "edad": "Adultos",
       "tipo": "Presentaci\u00f3n de libro",
@@ -3489,17 +3401,6 @@
         "2023-10-20"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958559494&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "actividad": "\u00bfDuelo?, c\u00f3mo evitar un problema de salud mental",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Conferencia o mesa redonda",
-      "biblioteca": "Biblioteca P\u00fablica Carabanchel Luis Rosales",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-09"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958846569&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "actividad": "\u00bfQu\u00e9 es el BUBISHER?",
@@ -3774,11 +3675,6 @@
       "nombre": "Centro de Lectura de Cenicientos",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=635",
       "ubicacion": "Cenicientos"
-    },
-    {
-      "nombre": "Unidad Central de Bibliotecas P\u00fablicas (Comunidad de Madrid)",
-      "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=2525",
-      "ubicacion": "Madrid - Centro"
     }
   ]
 }

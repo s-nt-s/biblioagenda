@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/latina.rss</link>
 		<description>Agenda de las bibliotecas de Latina</description>
 		<language>es-ES</language>
-		<lastBuildDate>Sat, 07 Oct 2023 20:00:40 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Oct 2023 05:10:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,13 +35,6 @@
 			<description>18:00 - 2023-10-13-V,&lt;br/&gt;Latina - Biblioteca Pública Latina Antonio Mingote</description>
 			<category>Proyección</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958744648&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Taller de escritura: Poesía</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958646192&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-09-L,&lt;br/&gt;Latina - Biblioteca Pública Latina Antonio Mingote</description>
-			<category>Taller de escritura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958646192&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 	</channel>
 </rss>
