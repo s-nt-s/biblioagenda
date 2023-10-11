@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/puente-de-vallecas.rss</link>
 		<description>Agenda de las bibliotecas de Puente de Vallecas</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 06 Oct 2023 09:09:36 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 05:10:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,13 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958844947&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
+			<title>Encuentro con autor: El 'Noir' americano en nuestro cómic</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958980390&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>19:00 - 2023-10-25-X,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
+			<category>Encuentro con autor</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958980390&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
 			<title>Proyección: Embrujo</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958734808&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>19:00 - 2023-10-20-V,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
@@ -42,13 +49,6 @@
 			<description>19:00 - 2023-10-23-L,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
 			<category>Encuentro con autor</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958888329&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Club de lectura: Mirando al sol</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958560426&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-10-M,&lt;br/&gt;Puente de Vallecas - Biblioteca Pública Puente de Vallecas Miguel Hernández</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958560426&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Presentación de libro: Ya calló la lluvia</title>

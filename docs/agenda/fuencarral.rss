@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/fuencarral.rss</link>
 		<description>Agenda de las bibliotecas de Fuencarral</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 10 Oct 2023 05:10:28 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 05:10:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,13 +21,6 @@
 			<description>18:00 - 2023-10-20-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
 			<category>Conferencia o mesa redonda</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958360098&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Conferencia: Alimentación y salud mental</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958845366&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-10-M,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958845366&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Taller: Corrección de textos</title>
@@ -49,13 +42,6 @@
 			<description>18:00 - 2023-11-10-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
 			<category>Recital o lectura en público</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958657959&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Club de lectura: Encuentros literarios</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958613869&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>17:00 - 2023-10-10-M,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Club de lectura</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958613869&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Conferencia: Extinción: fin de una especie</title>
@@ -112,6 +98,13 @@
 			<description>18:30 - 2023-11-23-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
 			<category>Espectáculo</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958942835&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Conferencia: Rosario de Acuña recuperada para la historia</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959004334&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-24-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959004334&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Espectáculo: STN: embarque en otra parte</title>
