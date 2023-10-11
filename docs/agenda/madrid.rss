@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/madrid.rss</link>
 		<description>Agenda de las bibliotecas de Madrid</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 11 Oct 2023 11:14:54 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 11:44:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -625,14 +625,14 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958998105&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Encuentro con autor: Encuentro virtual con... Fernanda Trías</title>
+			<title>Encuentro con autor: Fernanda Trías</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959001126&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>19:00 - 2023-10-22-D,&lt;br/&gt;Centro - Unidad Central de Bibliotecas Públicas (Comunidad de Madrid)</description>
 			<category>Encuentro con autor</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959001126&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Encuentro con autor: Encuentro virtual con... Miguel A. Delgado</title>
+			<title>Encuentro con autor: Miguel A. Delgado</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959003435&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>19:00 - 2023-10-19-J,&lt;br/&gt;Centro - Unidad Central de Bibliotecas Públicas (Comunidad de Madrid)</description>
 			<category>Encuentro con autor</category>

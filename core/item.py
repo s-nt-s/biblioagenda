@@ -93,7 +93,7 @@ def parse_actividad(a: str, t: str):
     if a.count('"') == 2 and t in ("Encuentro con autor", "Presentación de libro"):
         return a.split('"')[1]
     if t == "Encuentro con autor":
-        return _cap(re.sub(r"^Encuentro (literario )?con[\.\s]+", "", a))
+        return _cap(re.sub(r"^Encuentro ((literario|virtual) )?con[\.\s]+", "", a))
     if t.startswith("Taller"):
         return _cap(re.sub(r"^Taller( de|:)\s+", "", a))
     if t == "Proyección":
