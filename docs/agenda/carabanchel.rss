@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/carabanchel.rss</link>
 		<description>Agenda de las bibliotecas de Carabanchel</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 10 Oct 2023 05:10:28 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 10:58:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,11 +23,18 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958644038&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Taller: Corrección de textos</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958757271&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:30 - 2023-10-27-V,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
+			<title>Jornada: Encuentro multifamiliar</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958645991&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>16:00 - 2023-09-27-X - 2023-12-13-X,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
+			<category>Jornada</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958645991&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Taller: Tejer y leer</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958653971&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-09-19-M - 2023-12-19-M,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
 			<category>Taller</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958757271&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958653971&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Taller: El patio. Espacio de recreo</title>
@@ -44,11 +51,25 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958742470&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Jornada: Encuentro multifamiliar</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958645991&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>16:00 - 2023-09-27-X - 2023-12-13-X,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
-			<category>Jornada</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958645991&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+			<title>Proyección: Las niñas</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958742550&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-10-20-V,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
+			<category>Proyección</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958742550&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Taller: Corrección de textos</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958757271&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:30 - 2023-10-27-V,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
+			<category>Taller</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958757271&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Presentación de libro: Una rosa en el jardín de los tulipanes</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958789859&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>12:00 - 2023-10-21-S,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
+			<category>Presentación de libro</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958789859&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Presentación de libro: Entre cuentos</title>
@@ -58,32 +79,11 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958790085&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Proyección: Las niñas</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958742550&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-20-V,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
-			<category>Proyección</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958742550&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
 			<title>Jornada: Tarde de juegos de mesa</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958859266&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>17:00 - 2023-10-22-D,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
 			<category>Jornada</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958859266&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Taller: Tejer y leer</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958653971&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-09-19-M - 2023-12-19-M,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
-			<category>Taller</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958653971&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Presentación de libro: Una rosa en el jardín de los tulipanes</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958789859&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>12:00 - 2023-10-21-S,&lt;br/&gt;Carabanchel - Biblioteca Pública Carabanchel Luis Rosales</description>
-			<category>Presentación de libro</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958789859&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 	</channel>
 </rss>

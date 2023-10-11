@@ -5,71 +5,15 @@
 		<link>https://s-nt-s.github.io/biblioagenda/fuencarral.rss</link>
 		<description>Agenda de las bibliotecas de Fuencarral</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 11 Oct 2023 05:10:11 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 10:58:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-		<item>
-			<title>Espectáculo: &quot;El Monte de las Ánimas&quot;, de Gustavo Adolfo Bécquer</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958912260&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:30 - 2023-11-02-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Espectáculo</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958912260&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
 		<item>
 			<title>Conferencia: Agujeros negros: un viaje al borde del abismo</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958360098&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:00 - 2023-10-20-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
 			<category>Conferencia o mesa redonda</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958360098&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Taller: Corrección de textos</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958760153&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-12-14-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Taller</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958760153&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Debate abierto: la banca para el ciudadano de a pie (I). Entendiendo el sistema financiero</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958948458&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-11-08-X,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958948458&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Recital: Dragones y princesas</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958657959&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-11-10-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Recital o lectura en público</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958657959&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Conferencia: Extinción: fin de una especie</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958997055&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-11-30-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958997055&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Conferencia: Homenaje a la Copla: Rafael de León</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958662048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-26-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958662048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Presentación de libro: La guarida de Hades</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958914513&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-11-17-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Presentación de libro</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958914513&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Conferencia: La naturaleza en la ciudad de Madrid</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958609915&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-10-19-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958609915&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Club de lectura: Mentes maravillosas</title>
@@ -79,11 +23,60 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958577272&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
+			<title>Conferencia: La naturaleza en la ciudad de Madrid</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958609915&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-10-19-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958609915&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Espectáculo: STN: embarque en otra parte</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958623483&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>19:00 - 2023-10-18-X,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Espectáculo</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958623483&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
 			<title>Recital: Narración oral sobre la vida de Maruja Mallo</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958643135&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:30 - 2023-10-13-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
 			<category>Recital o lectura en público</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958643135&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Recital: Dragones y princesas</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958657959&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-10-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Recital o lectura en público</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958657959&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Conferencia: Homenaje a la Copla: Rafael de León</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958662048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-10-26-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958662048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Taller: Corrección de textos</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958760153&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-12-14-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Taller</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958760153&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Espectáculo: &quot;El Monte de las Ánimas&quot;, de Gustavo Adolfo Bécquer</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958912260&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:30 - 2023-11-02-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Espectáculo</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958912260&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Presentación de libro: La guarida de Hades</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958914513&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-17-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Presentación de libro</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958914513&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Conferencia: Riesgos en Internet para familias</title>
@@ -100,18 +93,25 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958942835&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Conferencia: Rosario de Acuña recuperada para la historia</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959004334&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-11-24-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959004334&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+			<title>Recital: Verbo extremeño: homenaje a J.M.Gabriel y Galán y Luis Chamizo Trigueros</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958947175&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-16-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Recital o lectura en público</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958947175&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Espectáculo: STN: embarque en otra parte</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958623483&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>19:00 - 2023-10-18-X,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Espectáculo</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958623483&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+			<title>Debate abierto: la banca para el ciudadano de a pie (I). Entendiendo el sistema financiero</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958948458&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-08-X,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958948458&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Conferencia: Extinción: fin de una especie</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958997055&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-30-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958997055&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Conferencia: Tu camino, tu creación: charla de autoayuda</title>
@@ -121,11 +121,11 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958998105&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Recital: Verbo extremeño: homenaje a J.M.Gabriel y Galán y Luis Chamizo Trigueros</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958947175&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-11-16-J,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
-			<category>Recital o lectura en público</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958947175&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+			<title>Conferencia: Rosario de Acuña recuperada para la historia</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959004334&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-24-V,&lt;br/&gt;Fuencarral - Biblioteca Pública Fuencarral-El Pardo Rafael Alberti</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959004334&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 	</channel>
 </rss>

@@ -13,11 +13,7 @@ def myconverter(o):
     dct = None
     if dataclasses.is_dataclass(o):
         dct = dataclasses.asdict(o)
-        for k, v in list(o.items()):
-            if v is None:
-                del o[k]
-        return o
-    if isinstance(o, NamedTuple):
+    elif isinstance(o, NamedTuple):
         dct = o._asdict()
     if dct is None:
         return None

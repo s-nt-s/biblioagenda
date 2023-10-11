@@ -4,6 +4,8 @@ from unidecode import unidecode
 import re
 from urllib.parse import urlparse
 from urllib.parse import parse_qs
+from dataclasses import dataclass, field, fields
+from functools import cached_property
 
 from .util import flat
 
@@ -81,6 +83,7 @@ def parse_actividad(a: str, t: str):
     def _cap(s: str):
         return s[0].upper()+s[1:]
 
+    t = parse_tipo(t)
     a = re.sub(r"\. (Tarde|Mañana)$", "", a)
     if t == "Club de lectura" and re.match(r"^Club de lectura[: ].*", a):
         a = a[16:].strip(' "\'')
@@ -155,36 +158,62 @@ class Biblio(NamedTuple):
         return tuple(spl)
 
 
-class Item(NamedTuple):
-    actividad: str
-    edad: str
-    tipo: str
-    biblioteca: str
-    hora: str
-    fechas: Tuple[date]
-    url: str
+@dataclass(frozen=True, order=True)
+class Item:
+    id: int = field(init=False, repr=False, compare=True, hash=True)
+    actividad: str = field(compare=False, hash=False)
+    edad: str = field(compare=False, hash=False)
+    tipo: str = field(compare=False, hash=False)
+    biblioteca: str = field(compare=False, hash=False)
+    hora: str = field(compare=False, hash=False)
+    fechas: Tuple[date] = field(compare=False, hash=False)
+    url: str = field(compare=False, hash=False)
 
-    @staticmethod
-    def build(*args, **kwargs):
+    @classmethod
+    def build(cls, *args, **kwargs):
+        flds = tuple(n.name for n in fields(cls) if n.init)
         obj = get_obj(*args, **kwargs)
-        obj['fechas'] = parse_fecha(obj['fechas'])
-        obj['tipo'] = parse_tipo(obj['tipo'])
-        obj['actividad'] = parse_actividad(obj['actividad'], obj['tipo'])
+        for k in list(obj.keys()):
+            if k not in flds:
+                del obj[k]
         return Item(**obj)
 
-    @property
-    def id(self):
+    def __post_init__(self):
+        for fld, conv in self.__iter_post_init():
+            object.__setattr__(self, fld, conv())
+
+    def __iter_post_init(self):
+        for fld in fields(self):
+            conv = getattr(self, "".join([
+                    "_",
+                    self.__class__.__name__,
+                    "__post_init__",
+                    fld.name
+                ]), None)
+            if callable(conv):
+                yield fld.name, conv
+
+    def __post_init__id(self):
         purl = urlparse(self.url)
         id = parse_qs(purl.query)['cid'][0]
         return int(id)
 
-    @property
+    def __post_init__fechas(self):
+        return parse_fecha(self.fechas)
+
+    def __post_init__tipo(self):
+        return parse_tipo(self.tipo)
+
+    def __post_init__actividad(self):
+        return parse_actividad(self.actividad, self.tipo)
+
+    @cached_property
     def is_cancelado(self):
         if self.actividad.startswith("CANCELADO "):
             return True
         return False
 
-    @property
+    @cached_property
     def is_adulto(self):
         if self.edad == TODOS:
             return True
@@ -192,7 +221,7 @@ class Item(NamedTuple):
             return True
         return False
 
-    @property
+    @cached_property
     def is_tarde_o_finde(self):
         if set({5, 6}).intersection(self.dias):
             return True
@@ -201,14 +230,14 @@ class Item(NamedTuple):
             return True
         return False
 
-    @property
+    @cached_property
     def dias(self):
         ds = set()
         for f in self.fechas:
             ds.add(f.weekday())
         return tuple(sorted(ds))
 
-    @property
+    @cached_property
     def fecha(self):
         fechas = []
         for f in self.fechas:
@@ -217,7 +246,7 @@ class Item(NamedTuple):
             fechas.append(txt)
         return fechas
 
-    @property
+    @cached_property
     def lugar(self):
         lugar = str(self.biblioteca)
         if lugar == "Unidad Central de Bibliotecas Públicas (Comunidad de Madrid)":
@@ -236,7 +265,7 @@ class Item(NamedTuple):
                 return v + ' ' + lugar
         return lugar
 
-    @property
+    @cached_property
     def tipoactividad(self):
         a = self.actividad.lower()
         if a.split()[0] in "club taller visita itinerario debate jornada".split():

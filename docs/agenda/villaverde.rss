@@ -5,44 +5,9 @@
 		<link>https://s-nt-s.github.io/biblioagenda/villaverde.rss</link>
 		<description>Agenda de las bibliotecas de Villaverde</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 11 Oct 2023 05:10:11 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 10:58:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-		<item>
-			<title>Jornada: Celebramos el Día de las Escritoras</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958873541&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>19:00 - 2023-10-16-L,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
-			<category>Jornada</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958873541&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Visita a la biblioteca: Conoce tu biblioteca</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958853652&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>19:00 - 2023-10-24-M,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
-			<category>Visita a la biblioteca</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958853652&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Taller: Corrección de textos</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958766008&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:00 - 2023-11-21-M,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
-			<category>Taller</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958766008&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Encuentro con autor: Elena Herrero Mayoral</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958877594&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:30 - 2023-10-26-J,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
-			<category>Encuentro con autor</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958877594&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Taller: Informática básica</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958784642&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>16:00 - 2023-10-23-L - 2023-10-27-V,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
-			<category>Taller</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958784642&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
 		<item>
 			<title>Jornada informativa Anual de ARVIL</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958549995&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
@@ -56,6 +21,41 @@
 			<description>18:00 - 2023-10-19-J,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
 			<category>Proyección</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958740343&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Taller: Corrección de textos</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958766008&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:00 - 2023-11-21-M,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
+			<category>Taller</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958766008&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Taller: Informática básica</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958784642&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>16:00 - 2023-10-23-L - 2023-10-27-V,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
+			<category>Taller</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958784642&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Visita a la biblioteca: Conoce tu biblioteca</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958853652&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>19:00 - 2023-10-24-M,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
+			<category>Visita a la biblioteca</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958853652&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Jornada: Celebramos el Día de las Escritoras</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958873541&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>19:00 - 2023-10-16-L,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
+			<category>Jornada</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958873541&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Encuentro con autor: Elena Herrero Mayoral</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958877594&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:30 - 2023-10-26-J,&lt;br/&gt;Villaverde - Biblioteca Pública Villaverde María Moliner</description>
+			<category>Encuentro con autor</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958877594&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Taller: Tejemos y leemos</title>

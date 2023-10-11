@@ -5,23 +5,9 @@
 		<link>https://s-nt-s.github.io/biblioagenda/arganzuela.rss</link>
 		<description>Agenda de las bibliotecas de Arganzuela</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 11 Oct 2023 10:08:53 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 11:14:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-		<item>
-			<title>Exposición: Buero será su obra</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958470302&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>10:00 - 2023-07-11-M - 2023-10-22-D,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
-			<category>Exposición</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958470302&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Proyección: El Festival Eñe en la Biblioteca Regional de Madrid</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958996756&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:30 - 2023-10-20-V - 2023-10-21-S,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
-			<category>Proyección</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958996756&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
 		<item>
 			<title>Proyección: Esquilache (1989)</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958375991&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
@@ -30,32 +16,11 @@
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958375991&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
-			<title>Conferencia: Getafe Negro 2023 Encuentro con Don Winslow</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958996994&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>19:00 - 2023-10-26-J,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958996994&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Conferencia: Retrato del joven escritor Juan Luis Alborg. Epistolario durante la Guerra Civil</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958855311&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>18:30 - 2023-10-16-L,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
-			<category>Conferencia o mesa redonda</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958855311&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>12:30 - 2023-10-14-S,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
+			<title>Exposición: Buero será su obra</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958470302&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>10:00 - 2023-07-11-M - 2023-10-22-D,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
 			<category>Exposición</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479224&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>12:30 - 2023-10-21-S,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
-			<category>Exposición</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479224&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958470302&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
@@ -73,6 +38,13 @@
 		</item>
 		<item>
 			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>12:30 - 2023-10-14-S,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
+			<category>Exposición</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479165&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:30 - 2023-10-20-V,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
 			<category>Exposición</category>
@@ -80,10 +52,38 @@
 		</item>
 		<item>
 			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479224&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>12:30 - 2023-10-21-S,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
+			<category>Exposición</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479224&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479283&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
 			<description>18:30 - 2023-10-21-S,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
 			<category>Exposición</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479283&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Conferencia: Retrato del joven escritor Juan Luis Alborg. Epistolario durante la Guerra Civil</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958855311&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:30 - 2023-10-16-L,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958855311&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Proyección: El Festival Eñe en la Biblioteca Regional de Madrid</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958996756&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>18:30 - 2023-10-20-V - 2023-10-21-S,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
+			<category>Proyección</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958996756&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Conferencia: Getafe Negro 2023 Encuentro con Don Winslow</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958996994&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>19:00 - 2023-10-26-J,&lt;br/&gt;Arganzuela - Biblioteca Regional de Madrid Joaquín Leguina</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958996994&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 	</channel>
 </rss>

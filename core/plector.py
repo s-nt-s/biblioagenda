@@ -28,7 +28,6 @@ class PortalLector:
             )
         biblios = set()
         items = set()
-        ids = set()
         for url in urls:
             self.w.get(url)
             self.w.submit(
@@ -51,10 +50,7 @@ class PortalLector:
                     nombre=item.biblioteca,
                     url=tds[3].find("a").attrs["href"]
                 ))
-                if item.id in ids:
-                    continue
                 items.add(item)
-                ids.add(item.id)
 
         def visit_biblio(b: Biblio):
             self.w.get(b.url)
