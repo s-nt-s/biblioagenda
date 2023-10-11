@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/usera.rss</link>
 		<description>Agenda de las bibliotecas de Usera</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 11 Oct 2023 13:55:16 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 12:31:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -173,6 +173,21 @@ El Mindfulness es la focalización de la atención en el ahora, conseguir la at
 &lt;/div&gt;</description>
 			<category>Taller</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959014911&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Conferencia: Ciencia en tu barrio: El alto precio de lo gratuito, 10 motivos (y alguna otra razón) para (pre)ocuparnos de nuestra privacidad en Internet</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959015710&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>&lt;p&gt;18:00 - 2023-11-17-V.&lt;br/&gt;Usera - &lt;a href=&quot;http://maps.google.es/maps?f=q&amp;hl=es&amp;q=avenida+rafaela+ybarra,+43,+madrid&amp;ie=UTF8&amp;z=17&amp;om=1&amp;iwloc=A&quot;&gt;Biblioteca Pública Usera José Hierro&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
+Las tecnologías GAFA (Google Amazon Facebook Apple) nos permiten realizar gran número de operaciones sin movernos, con un fácil uso, y sin coste económico en muchos casos. Este carácter gratuito en realidad se sustenta en un tipo de coste de difícil cuantificación, pero cuyo impacto es cada vez más evidente. El flujo de información y los datos personales son el &quot;dinero&quot; con el que pagamos el peaje. Esta conferencia pretende no solo subrayar los peligros asociados a tecnologías y servicios de Internet, sino fomentar un uso responsable de las tecnologías de la información y las redes sociales.
+&lt;/p&gt;&lt;p&gt;Por: David Arroyo Guardeño, Científico titular del Instituto de Tecnologías Físicas y de la Información Leonardo Torres Quevedo&lt;/p&gt;
+&lt;p&gt;Dirigido a: Jóvenes y  adultos&lt;/p&gt;
+&lt;p&gt;Día: viernes, 17 de noviembre.&lt;/p&gt;
+&lt;p&gt;Hora: De 18.00 a 19.00 h&lt;/p&gt;
+&lt;p&gt;Plazas limitadas hasta completar aforo.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959015710&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 	</channel>
 </rss>

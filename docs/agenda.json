@@ -1624,18 +1624,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958645630&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "id": 1354958645721,
-      "actividad": "Escribir para ser escuchado: la literatura del Podcast",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller de escritura",
-      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
-      "hora": "11:30",
-      "fechas": [
-        "2023-10-11"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958645721&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "id": 1354958645991,
       "actividad": "Encuentro multifamiliar",
       "edad": "J\u00f3venes y adultos",
@@ -2568,18 +2556,6 @@
         "2023-10-30"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958847828&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "id": 1354958851350,
-      "actividad": "Madrid en guerra",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-11"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958851350&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "id": 1354958853095,
@@ -3531,6 +3507,18 @@
         "2023-11-24"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959014911&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959015710,
+      "actividad": "Ciencia en tu barrio: El alto precio de lo gratuito, 10 motivos (y alguna otra raz\u00f3n) para (pre)ocuparnos de nuestra privacidad en Internet",
+      "edad": "J\u00f3venes y adultos",
+      "tipo": "Conferencia o mesa redonda",
+      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-17"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959015710&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     }
   ],
   "biblios": [
