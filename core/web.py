@@ -37,7 +37,7 @@ def get_query(url):
     return q
 
 
-def iterhref(soup):
+def iterhref(soup: Tag):
     """Recorre los atriburos href o src de los tags"""
     n: Tag
     for n in soup.findAll(["img", "form", "a", "iframe", "frame", "link", "script", "input"]):

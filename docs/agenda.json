@@ -998,18 +998,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958559494&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "id": 1354958560335,
-      "actividad": "Mirando al sol",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Biblioteca P\u00fablica Puente de Vallecas Miguel Hern\u00e1ndez",
-      "hora": "10:00",
-      "fechas": [
-        "2023-10-11"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958560335&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "id": 1354958560556,
       "actividad": "Ajedrez",
       "edad": "Infantil",
@@ -1659,18 +1647,6 @@
         "2023-12-13"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958645991&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "id": 1354958646257,
-      "actividad": "El crimen perfecto",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller de escritura",
-      "biblioteca": "Biblioteca P\u00fablica Latina Antonio Mingote",
-      "hora": "10:30",
-      "fechas": [
-        "2023-10-11"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958646257&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "id": 1354958647899,
@@ -3531,283 +3507,362 @@
         "2023-12-20"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959011079&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959014883,
+      "actividad": "Mar de est\u00edo",
+      "edad": "J\u00f3venes y adultos",
+      "tipo": "Presentaci\u00f3n de libro",
+      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
+      "hora": "18:30",
+      "fechas": [
+        "2023-11-10"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959014883&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959014911,
+      "actividad": "Psicolog\u00eda: Atenci\u00f3n plena, gesti\u00f3n de la atenci\u00f3n y la memoria desde el mindfulness",
+      "edad": "Adultos",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
+      "hora": "18:30",
+      "fechas": [
+        "2023-11-24"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959014911&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     }
   ],
   "biblios": [
     {
       "nombre": "Biblioteca Central de Legan\u00e9s",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=5032",
-      "ubicacion": "Legan\u00e9s - Legan\u00e9s Norte"
+      "ubicacion": "Legan\u00e9s - Legan\u00e9s Norte",
+      "mapa": "https://www.google.com/maps/place/Av.+de+la+Reina+Sof%C3%ADa,+4,+28919+Legan%C3%A9s,+Madrid/@40.3423366,-3.7529646,17z/data=!3m1!4b1!4m6!3m5!1s0xd4189e4f85c6c07:0x333b4fd8bbe2a32b!8m2!3d40.3423366!4d-3.7503897!16s%2Fg%2F11h_bv5n0j?entry=ttu"
     },
     {
       "nombre": "Biblioteca Municipal Almudena Grandes (Ciempozuelos)",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=104",
-      "ubicacion": "Ciempozuelos"
+      "ubicacion": "Ciempozuelos",
+      "mapa": "https://maps.google.es/maps?q=calle+colegiata,+3,+ciempozuelos&hl=es&ll=40.159689,-3.612742&spn=0.017416,0.032916&sll=40.396764,-3.713379&sspn=5.035807,8.942871&hnear=Calle+de+la+Colegiata,+3,+28350+Ciempozuelos,+Madrid,+Comunidad+de+Madrid&t=m&z=15"
     },
     {
       "nombre": "Biblioteca Municipal Ana Mar\u00eda Matute",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=2181",
-      "ubicacion": "Valdemoro - Hispanoam\u00e9rica-Comunidades"
+      "ubicacion": "Valdemoro - Hispanoam\u00e9rica-Comunidades",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&geocode=&q=Calle+Cuba,+valdemoro&sll=40.396764,-3.713379&sspn=12.379328,29.707031&ie=UTF8&ll=40.187627,-3.689368&spn=0.006065,0.014505&z=16"
     },
     {
       "nombre": "Biblioteca Municipal Casa de la Cadena",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=181",
-      "ubicacion": "Pinto - Centro"
+      "ubicacion": "Pinto - Centro",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=cadena,+pinto,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Central Almudena Grandes",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=166",
-      "ubicacion": "M\u00f3stoles - Distrito Centro"
+      "ubicacion": "M\u00f3stoles - Distrito Centro",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=canarias,+mostoles,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Central Pedro Antonio de Alarc\u00f3n",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=231",
-      "ubicacion": "San Lorenzo de El Escorial"
+      "ubicacion": "San Lorenzo de El Escorial",
+      "mapa": "https://www.google.es/maps/place/Biblioteca+P%C3%BAblica+Municipal+Pedro+Antonio+de+Alarc%C3%B3n/@40.5973019,-4.1383305,17z/data=!3m1!4b1!4m5!3m4!1s0xd410a33f6423b59:0x4cbd316b2d456a9!8m2!3d40.5973019!4d-4.1361418"
     },
     {
       "nombre": "Biblioteca Municipal Elena Soriano",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=265",
-      "ubicacion": "Villaconejos"
+      "ubicacion": "Villaconejos",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=santa+ana,+1,+villaconejos&ie=UTF8&om=1&z=17&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Eugenio Arias",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=95",
-      "ubicacion": "Buitrago del Lozoya"
+      "ubicacion": "Buitrago del Lozoya",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=Calle+de+la+Tahona,+19,+28730,+Buitrago+del+Lozoya,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=16&ll=40.993228,-3.636196&spn=0.00894,0.024204&om=1"
     },
     {
       "nombre": "Biblioteca Municipal F. L\u00e1zaro Carreter",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=266",
-      "ubicacion": "Villanueva de la Ca\u00f1ada"
+      "ubicacion": "Villanueva de la Ca\u00f1ada",
+      "mapa": "https://www.google.com/maps/place/Av.+de+Gaud%C3%AD,+27,+28691+Villanueva+de+la+Ca%C3%B1ada,+Madrid/@40.4502341,-4.0035277,17z/data=!3m1!4b1!4m6!3m5!1s0xd41997119218943:0xbad049b1e27ded52!8m2!3d40.4502341!4d-4.0009528!16s%2Fg%2F11cnclwfss?entry=ttu"
     },
     {
       "nombre": "Biblioteca Municipal Isabel Allende",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=1243",
-      "ubicacion": "Daganzo de Arriba"
+      "ubicacion": "Daganzo de Arriba",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&geocode=&q=Carretera+del+fresno,+22,+daganzo+de+arriba&sll=-12.416667,-66.3&sspn=0.156917,0.247879&ie=UTF8&ll=40.544673,-3.459363&spn=0.003816,0.012124&z=17&om=0"
     },
     {
       "nombre": "Biblioteca Municipal Javier Lape\u00f1a (La Tener\u00eda)",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=5037",
-      "ubicacion": "Pinto - La Tener\u00eda"
+      "ubicacion": "Pinto - La Tener\u00eda",
+      "mapa": "https://www.google.com/maps/place/C.+Juana+Franc%C3%A9s,+63,+28320+Pinto,+Madrid/@40.2540978,-3.7059482,17z/data=!3m1!4b1!4m6!3m5!1s0xd42202b4fb19ee3:0x770015e4be166267!8m2!3d40.2540978!4d-3.7033733!16s%2Fg%2F11c43_2gk8?entry=ttu"
     },
     {
       "nombre": "Biblioteca Municipal Jos\u00e9 Hierro",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=283",
-      "ubicacion": "Alcorc\u00f3n - Distrito 1. Casco antiguo"
+      "ubicacion": "Alcorc\u00f3n - Distrito 1. Casco antiguo",
+      "mapa": "http://maps.google.es/maps/ms?ie=UTF8&hl=es&msa=0&msid=100241115758437167377.00048b59a498d8b4103d4&ll=40.34486,-3.833853&spn=0.003549,0.006856&t=h&z=17&lci=transit_comp"
     },
     {
       "nombre": "Biblioteca Municipal Julio Caro Baroja",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=360",
-      "ubicacion": "Legan\u00e9s - San Nicasio"
+      "ubicacion": "Legan\u00e9s - San Nicasio",
+      "mapa": "http://maps.google.com/maps?ll=40.33431,-3.771422&spn=0.007819,0.013733&z=16"
     },
     {
       "nombre": "Biblioteca Municipal Lope de Vega",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=256",
-      "ubicacion": "Tres Cantos"
+      "ubicacion": "Tres Cantos",
+      "mapa": "http://maps.google.es/maps?pq=colmenar+viejo+biblioteca+municipal&hl=es&sugexp=crf&cp=11&gs_id=19&xhr=t&q=tres+cantos+biblioteca+municipal&rlz=1T4ADFA_esES351ES352&biw=1280&bih=811&gs_upl=&bav=on.2,or.r_gc.r_pw.,cf.osb&wrapid=tljp1328704451235013&um=1&ie=UTF-8&ei=xmoyT7GdH8yYhQe4q42SBQ&sa=X&oi=mode_link&ct=mode&cd=3&sqi=2&ved=0CBMQ_AUoAg"
     },
     {
       "nombre": "Biblioteca Municipal Lorenzo Silva",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=148",
-      "ubicacion": "Humanes de Madrid"
+      "ubicacion": "Humanes de Madrid",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=calle+el+libro,2,+Humanes+de+madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&ll=40.250037,-3.827738&spn=0.00452,0.012102&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Luis Cubero",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=142",
-      "ubicacion": "Fuentidue\u00f1a de Tajo"
+      "ubicacion": "Fuentidue\u00f1a de Tajo",
+      "mapa": "http://maps.google.es/maps?q=plaza+de+la+caserna,+3,+fuentidue%C3%B1a+de+tajo&hl=es&ie=UTF8&sll=40.299324,-3.437232&sspn=0.556151,1.053314&hnear=Plaza+de+la+Caserna,+3,+28597+Fuentidue%C3%B1a+de+Tajo,+Madrid,+Comunidad+de+Madrid&t=m&z=16"
     },
     {
       "nombre": "Biblioteca Municipal Luis Parra",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=267",
-      "ubicacion": "Villanueva del Pardillo"
+      "ubicacion": "Villanueva del Pardillo",
+      "mapa": "http://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Recaudaci%C3%B3n,+3,+Villanueva+del+pardillo&sll=40.516409,-3.964348&sspn=0.082476,0.140076&ie=UTF8&ll=40.492654,-3.962889&spn=0.010313,0.017509&z=15&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Miguel Hern\u00e1ndez",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=107",
-      "ubicacion": "Collado Villalba - Barrio de la Estaci\u00f3n"
+      "ubicacion": "Collado Villalba - Barrio de la Estaci\u00f3n",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=batalla+de+bailen,+13,+collado+villalba,+madrid&ie=UTF8&z=17&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Miguel de Cervantes",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=5036",
-      "ubicacion": "Algete"
+      "ubicacion": "Algete",
+      "mapa": "https://www.google.com/maps/place/C.+de+la+Paloma,+1,+28110+Algete,+Madrid/@40.59507,-3.5047449,17z/data=!3m1!4b1!4m6!3m5!1s0xd43cca70fe0e6c5:0x63a84f3e831da785!8m2!3d40.59507!4d-3.50217!16s%2Fg%2F11c5cftmh_?entry=ttu"
     },
     {
       "nombre": "Biblioteca Municipal Pablo Neruda",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=88",
-      "ubicacion": "Arganda del Rey"
+      "ubicacion": "Arganda del Rey",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=calle+las+tiendas,8,arganda+del+rey,Madrid&ie=UTF8&om=1&z=17&ll=40.30064,-3.437991&spn=0.004517,0.012102&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Petra Ram\u00edrez",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=103",
-      "ubicacion": "Chinch\u00f3n"
+      "ubicacion": "Chinch\u00f3n",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=avenida+del+generalisimo,24,+chinchon,+madrid&ie=UTF8&z=17&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Poetas del Alberche",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=264",
-      "ubicacion": "Villa del Prado"
+      "ubicacion": "Villa del Prado",
+      "mapa": "https://www.google.es/maps/dir/Av.+del+Alam%C3%ADn,+2,+28630+Villa+del+Prado,+Madrid//@40.2725142,-4.3728798,19719m/data=!3m2!1e3!4b1!4m8!4m7!1m5!1m1!1s0xd41b68855ec712b:0xccc7b7bf529a12a9!2m2!1d-4.3028394!2d40.2724043!1m0"
     },
     {
       "nombre": "Biblioteca Municipal Rafael Alberti",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=228",
-      "ubicacion": "San Fernando de Henares"
+      "ubicacion": "San Fernando de Henares",
+      "mapa": "http://maps.google.es/maps?hl=es&q=biblioteca+san+fernando+de+henares&ie=UTF8&ll=40.427545,-3.536782&spn=0.006926,0.013754&z=16&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal de Boadilla del Monte",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=94",
-      "ubicacion": "Boadilla del Monte"
+      "ubicacion": "Boadilla del Monte",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=calle+de+los+martires,1,boadilla+del+monte,Madrid&ie=UTF8&z=17&om=1"
     },
     {
       "nombre": "Biblioteca Municipal de Camarma de Esteruelas",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=99",
-      "ubicacion": "Camarma de Esteruelas"
+      "ubicacion": "Camarma de Esteruelas",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=la+soledad,camarma+de+esteruelas,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=16&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal de El Escorial",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=139",
-      "ubicacion": "Escorial (El)"
+      "ubicacion": "Escorial (El)",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=plaza+de+espa%C3%B1a,+el+escorial,+Madrid,+Comunidad+de+Madrid+espa%C3%B1a&ie=UTF8&z=17&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal de El \u00c1lamo",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=81",
-      "ubicacion": "\u00c1lamo (El)"
+      "ubicacion": "\u00c1lamo (El)",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=calle+escuelas,+13,+el+alamo,+madrid&ie=UTF8&z=17&om=1"
     },
     {
       "nombre": "Biblioteca Municipal de Guadalix de la Sierra",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=145",
-      "ubicacion": "Guadalix de la Sierra"
+      "ubicacion": "Guadalix de la Sierra",
+      "mapa": "https://www.google.es/maps/place/Calle+Eras+de+Abajo,+1,+28794+Guadalix+de+la+Sierra,+Madrid/@40.7844429,-3.6984804,17z/data=!3m1!4b1!4m5!3m4!1s0xd43d9043e9f6a0f:0xc3b3cbdde24e52c7!8m2!3d40.7844429!4d-3.6962864?hl=es"
     },
     {
       "nombre": "Biblioteca Municipal de Lozoyuela",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=651",
-      "ubicacion": "Lozoyuela-Navas-Sieteiglesias"
+      "ubicacion": "Lozoyuela-Navas-Sieteiglesias",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=Lozoyuela,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&sll=40.435938,-3.662811&sspn=0.004361,0.012124&ie=UTF8&z=16&ll=40.926419,-3.617742&spn=0.008657,0.024247&om=1&iwloc=addr"
     },
     {
       "nombre": "Biblioteca Municipal de Morata de Taju\u00f1a",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=165",
-      "ubicacion": "Morata de Taju\u00f1a"
+      "ubicacion": "Morata de Taju\u00f1a",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=tarayuela,+morata+de+taju%C3%B1a,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&om=1"
     },
     {
       "nombre": "Biblioteca Municipal de Rascafr\u00eda",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=202",
-      "ubicacion": "Rascafr\u00eda"
+      "ubicacion": "Rascafr\u00eda",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=modesto+ortega+lobon,+rascafria,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&om=1"
     },
     {
       "nombre": "Biblioteca Municipal de San Mart\u00edn de Valdeiglesias",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=239",
-      "ubicacion": "San Mart\u00edn de Valdeiglesias"
+      "ubicacion": "San Mart\u00edn de Valdeiglesias",
+      "mapa": "https://www.google.com/maps/place/C.+de+la+Fuente,+4,+28680+San+Mart%C3%ADn+de+Valdeiglesias,+Madrid/@40.3638205,-4.4005721,17z/data=!3m1!4b1!4m6!3m5!1s0xd404d34b1fefe83:0x3a286cb367c7702!8m2!3d40.3638205!4d-4.3979972!16s%2Fg%2F11cpdmv5tr?entry=ttu"
     },
     {
       "nombre": "Biblioteca Municipal de Sevilla la Nueva",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=243",
-      "ubicacion": "Sevilla la Nueva"
+      "ubicacion": "Sevilla la Nueva",
+      "mapa": "https://www.google.com/maps?sca_esv=566193960&rlz=1C1GCEV_esES902ES902&output=search&q=Plaza+de+Sevilla,+2+28609+Sevilla+la+Nueva+(Madrid)&source=lnms&entry=mc&sa=X&ved=2ahUKEwjlsNGSxrOBAxVIcKQEHdWjDp0Q0pQJegQICxAB"
     },
     {
       "nombre": "Biblioteca Municipal de Talamanca de Jarama",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=245",
-      "ubicacion": "Talamanca de Jarama"
+      "ubicacion": "Talamanca de Jarama",
+      "mapa": "https://www.google.com/maps/place/Calle+de+la+Fuente+del+Arca,+19,+28160+Talamanca,+Madrid,+Espa%C3%B1a/@40.745095,-3.509419,15z/data=!4m2!3m1!1s0xd43c5f78beb258b:0xf29db5479c2bc274?hl=es"
     },
     {
       "nombre": "Biblioteca Municipal de Tielmes",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=246",
-      "ubicacion": "Tielmes"
+      "ubicacion": "Tielmes",
+      "mapa": "http://goo.gl/maps/i0iZs"
     },
     {
       "nombre": "Biblioteca Municipal de Villaviciosa de Od\u00f3n",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=269",
-      "ubicacion": "Villaviciosa de Od\u00f3n"
+      "ubicacion": "Villaviciosa de Od\u00f3n",
+      "mapa": "https://goo.gl/maps/5iFrTYDDPyJs14hy9"
     },
     {
       "nombre": "Biblioteca P\u00fablica Carabanchel Luis Rosales",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=3992",
-      "ubicacion": "Madrid - Carabanchel - Buenavista"
+      "ubicacion": "Madrid - Carabanchel - Buenavista",
+      "mapa": "http://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Calle+de+Antonia+Rodr%C3%ADguez+Sacrist%C3%A1n,+7,+28044,+Madrid,+Madrid,+Comunidad+de+Madrid&sll=40.37483,-3.751112&sspn=0.004692,0.00825&ie=UTF8&ll=40.373719,-3.748119&spn=0.009383,0.016501&z=16&iwloc=A"
     },
     {
       "nombre": "Biblioteca P\u00fablica Centro Mario Vargas Llosa",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=12921",
-      "ubicacion": "Madrid - Centro - Justicia"
+      "ubicacion": "Madrid - Centro - Justicia",
+      "mapa": "https://maps.google.com/maps?q=40.426642215368176+-3.699722994908341&output=classic&dg=brw"
     },
     {
       "nombre": "Biblioteca P\u00fablica Centro Pedro Salinas",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=454",
-      "ubicacion": "Madrid - Centro - Embajadores"
+      "ubicacion": "Madrid - Centro - Embajadores",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=plaza+puerta+de+toledo,1,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&ll=40.406699,-3.711544&spn=0.004354,0.012102&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=447",
-      "ubicacion": "Madrid - Chamber\u00ed - Trafalgar"
+      "ubicacion": "Madrid - Chamber\u00ed - Trafalgar",
+      "mapa": "https://goo.gl/maps/Gtdzf2gXAtC2"
     },
     {
       "nombre": "Biblioteca P\u00fablica Ciudad Lineal La Elipa",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=730",
-      "ubicacion": "Madrid - Ciudad Lineal - Ventas"
+      "ubicacion": "Madrid - Ciudad Lineal - Ventas",
+      "mapa": "http://maps.google.com/maps?f=q&hl=es&geocode=&q=CALLE+NUESTRA+SE%C3%91ORA+DEL+VILLAR,+6,+madrid&sll=40.475664,-3.646688&sspn=0.007476,0.021501&ie=UTF8&ll=40.424621,-3.651645&spn=0.007481,0.014462&z=16&om=0"
     },
     {
       "nombre": "Biblioteca P\u00fablica Fuencarral-El Pardo Jos\u00e9 Saramago",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=708",
-      "ubicacion": "Madrid - Fuencarral - El Pardo - Barrio del Pilar"
+      "ubicacion": "Madrid - Fuencarral - El Pardo - Barrio del Pilar",
+      "mapa": "http://maps.google.com/maps?f=q&hl=es&geocode=&q=AVENIDA+MONFORTE+DE+LEMOS,+36,+madrid&sll=37.0625,-95.677068&sspn=31.922255,59.238281&ie=UTF8&ll=40.479386,-3.70868&spn=0.007475,0.014462&z=16&om=0"
     },
     {
       "nombre": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=456",
-      "ubicacion": "Madrid - Fuencarral - El Pardo"
+      "ubicacion": "Madrid - Fuencarral - El Pardo",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=Calle+de+Sangenjo,+38,+28034,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca P\u00fablica Latina Antonio Mingote",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=51",
-      "ubicacion": "Madrid - Latina"
+      "ubicacion": "Madrid - Latina",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=rafael+finat,+51,+28034,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&ll=40.380519,-3.768461&spn=0.004372,0.012102&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca P\u00fablica Moncloa-Aravaca Jos\u00e9 Acu\u00f1a",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=449",
-      "ubicacion": "Madrid - Moncloa - Aravaca - Arg\u00fcelles"
+      "ubicacion": "Madrid - Moncloa - Aravaca - Arg\u00fcelles",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=Calle+quintana,9,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&om=1&z=17&iwloc=A"
     },
     {
       "nombre": "Biblioteca P\u00fablica Moratalaz Javier Mar\u00edas",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=48",
-      "ubicacion": "Madrid - Moratalaz - Fontarr\u00f3n"
+      "ubicacion": "Madrid - Moratalaz - Fontarr\u00f3n",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=Corregidor+Alonso+de+Tobar,+5,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=16&ll=40.404118,-3.649404&spn=0.008742,0.024204&om=1"
     },
     {
       "nombre": "Biblioteca P\u00fablica Puente de Vallecas Miguel Hern\u00e1ndez",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=47",
-      "ubicacion": "Madrid - Puente de Vallecas"
+      "ubicacion": "Madrid - Puente de Vallecas",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=rafael+alberti,+36,+madrid&ie=UTF8&z=17&ll=40.384613,-3.642622&spn=0.004372,0.012102&om=1"
     },
     {
       "nombre": "Biblioteca P\u00fablica Retiro Elena Fort\u00fan",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=459",
-      "ubicacion": "Madrid - Retiro"
+      "ubicacion": "Madrid - Retiro",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=doctor+esquerdo,+189,+madrid&ie=UTF8&om=1&z=17"
     },
     {
       "nombre": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=46",
-      "ubicacion": "Madrid - Usera - Pradolongo"
+      "ubicacion": "Madrid - Usera - Pradolongo",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=avenida+rafaela+ybarra,+43,+madrid&ie=UTF8&z=17&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca P\u00fablica Villa de Vallecas Luis Mart\u00edn-Santos",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=462",
-      "ubicacion": "Madrid - Villa de Vallecas - Vallecas"
+      "ubicacion": "Madrid - Villa de Vallecas - Vallecas",
+      "mapa": "https://www.google.es/maps/place/Biblioteca+P%C3%BAblica+Villa+de+Vallecas+'Luis+Mart%C3%ADn+Santos'/@40.380945,-3.6161797,17z/data=!3m1!4b1!4m5!3m4!1s0xd422504903ff4db:0x2e624d7c12098e42!8m2!3d40.3809409!4d-3.613991?hl=es"
     },
     {
       "nombre": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=463",
-      "ubicacion": "Madrid - Villaverde - Barrio de Villaverde Alto"
+      "ubicacion": "Madrid - Villaverde - Barrio de Villaverde Alto",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=villalonso,16,+madrid&ie=UTF8&z=17&om=1"
     },
     {
       "nombre": "Biblioteca Regional de Madrid Joaqu\u00edn Leguina",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=52",
-      "ubicacion": "Madrid - Arganzuela - Delicias"
+      "ubicacion": "Madrid - Arganzuela - Delicias",
+      "mapa": "http://maps.google.es/maps?q=40.399559++++,++++-3.6905689999999822&hl=es&sll=40.525282,-3.81603&sspn=3.193966,4.938354&t=h&z=16"
     },
     {
       "nombre": "Centro de Lectura El Atazar",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=639",
-      "ubicacion": "Atazar (El)"
+      "ubicacion": "Atazar (El)",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=+El+Atazar,+Comunidad+de+Madrid,+Espa%C3%B1a&sll=40.934978,-3.468751&sspn=0.004328,0.012124&ie=UTF8&z=16&ll=40.934622,-3.470693&spn=0.008656,0.024247&om=1&iwloc=addr"
     },
     {
       "nombre": "Centro de Lectura de Cenicientos",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=635",
-      "ubicacion": "Cenicientos"
+      "ubicacion": "Cenicientos",
+      "mapa": "https://www.google.es/maps/place/Calle+de+la+de+los+Ca%C3%B1os,+1,+28650+Cenicientos,+Madrid/@40.2655358,-4.471501,17z/data=!3m1!4b1!4m5!3m4!1s0xd404bcd7b4d65a3:0x6b5a7dc76927c69b!8m2!3d40.2655317!4d-4.4693123"
     },
     {
       "nombre": "Unidad Central de Bibliotecas P\u00fablicas (Comunidad de Madrid)",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=2525",
-      "ubicacion": "Madrid - Centro"
+      "ubicacion": "Madrid - Centro",
+      "mapa": "http://maps.google.es/maps?q=c%2F+Alcal%C3%A1+31&hl=es&ie=UTF8&ll=40.418397,-3.698444&spn=0.008185,0.01929&sll=40.396764,-3.713379&sspn=8.38053,19.753418&z=16"
     }
   ]
 }

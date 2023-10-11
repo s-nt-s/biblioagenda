@@ -76,10 +76,10 @@ class AgendaRss:
             yield rfeed.Item(
                 title=f'{p.tipoactividad}',
                 link=p.url,
-                description=dedent(f'''
-                    {p.hora} - {' - '.join(p.fecha)},
-                    {b.zona} - {p.biblioteca}
-                ''').strip().replace("\n", "<br/>"),
+                description='<p>'+dedent(f'''
+                    {p.hora} - {' - '.join(p.fecha)}.
+                    {b.zona} - <a href="{b.mapa or b.url}">{p.biblioteca}</a>.
+                ''').strip().replace("\n", "<br/>")+'</p>'+p.body,
                 guid=rfeed.Guid(p.url),
                 # pubDate=datetime(*map(int, p.fecha.split("-"))),
                 categories=rfeed.Category(p.tipo)

@@ -6,6 +6,7 @@ from urllib.parse import urlparse
 from urllib.parse import parse_qs
 from dataclasses import dataclass, field, fields
 from functools import cached_property
+from .web import Web
 
 from .util import flat
 
@@ -120,6 +121,7 @@ class Biblio(NamedTuple):
     nombre: str
     url: str
     ubicacion: str = None
+    mapa: str = None
 
     @staticmethod
     def build(*args, **kwargs):
@@ -274,6 +276,23 @@ class Item:
             return self.actividad
         tipo = self.tipo.split(" o ")[0]
         return tipo+': '+self.actividad
+
+    @cached_property
+    def body(self):
+        soup = Web().get(self.url)
+        body = soup.select_one("#textoCuerpo")
+        body.attrs.clear()
+        p = body.find(text=True)
+        if p.parent == body:
+            p.wrap(soup.new_tag("p"))
+        for n in body.findAll(['span']):
+            n.unwrap()
+        for n in body.select(":scope *"):
+            txt = n.get_text().strip()
+            chl = n.select(":scope > *")
+            if tuple(map(len, (txt, chl))) == (0, 0):
+                n.extract()
+        return str(body)
 
 
 class Info(NamedTuple):

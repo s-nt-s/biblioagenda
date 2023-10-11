@@ -71,7 +71,7 @@
         {#<td>{{p.tipo}}</td>#}
         <td>
           <span data-zona="{{b.zona | simplify}}{{' madrid' if b.is_madrid else ''}}">{{', '.join(b.zonas)}}</span><br/>
-          <a href="{{b.url}}">{{p.lugar}}</a></td>
+          <a href="{{b.mapa or b.url}}">{{p.lugar}}</a></td>
       </tr>
       {% endfor %}
       </tbody>

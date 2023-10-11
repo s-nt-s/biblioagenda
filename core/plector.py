@@ -53,16 +53,20 @@ class PortalLector:
                 items.add(item)
 
         def visit_biblio(b: Biblio):
+            obj = {}
             self.w.get(b.url)
+            a = self.w.soup.find("a", text="Mapa Localización")
+            if a is not None:
+                obj["mapa"] = a.attrs["href"]
             for p in self.w.soup.select("p.ficha_valor"):
                 txt = tuple(map(get_text, p.findAll("span")))
                 if txt[0] == "Ubicación:":
-                    return Biblio(
-                        nombre=b.nombre,
-                        url=b.url,
-                        ubicacion=txt[1]
-                    )
-            return b
+                    obj["ubicacion"] = txt[1]
+            return Biblio(
+                nombre=b.nombre,
+                url=b.url,
+                **obj
+            )
 
         return Info(
             events=tuple(sorted(items)),
