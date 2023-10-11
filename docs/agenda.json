@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "id": 1354956991054,
+      "actividad": "El barrio de los poetas",
+      "edad": "Adultos",
+      "tipo": "Itinerario cultural",
+      "biblioteca": "Biblioteca Regional de Madrid Joaqu\u00edn Leguina",
+      "hora": "11:00",
+      "fechas": [
+        "2023-10-25"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354956991054&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
       "id": 1354957010169,
       "actividad": "El poder de Heka",
       "edad": "Para todos los p\u00fablicos",
@@ -3190,6 +3202,18 @@
         "2023-10-21"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958966525&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354958970889,
+      "actividad": "Scape Room El libro perdido",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Centro Pedro Salinas",
+      "hora": "18:00",
+      "fechas": [
+        "2023-10-24"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958970889&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "id": 1354958971208,
