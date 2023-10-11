@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/retiro.rss</link>
 		<description>Agenda de las bibliotecas de Retiro</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 11 Oct 2023 05:10:11 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 10:08:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,13 +28,6 @@
 			<description>18:00 - 2023-11-22-X,&lt;br/&gt;Retiro - Biblioteca Pública Retiro Elena Fortún</description>
 			<category>Taller</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958761142&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Taller: El crimen perfecto</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959008651&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>19:00 - 2023-10-23-L,&lt;br/&gt;Retiro - Biblioteca Pública Retiro Elena Fortún</description>
-			<category>Taller</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959008651&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Encuentro con autor: Ellos también son así</title>
@@ -77,6 +70,13 @@
 			<description>12:00 - 2023-10-28-S,&lt;br/&gt;Retiro - Biblioteca Pública Retiro Elena Fortún</description>
 			<category>Encuentro con autor</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958792127&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+		</item>
+		<item>
+			<title>Taller: Superar la violencia personal y social</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959008651&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<description>19:00 - 2023-10-23-L,&lt;br/&gt;Retiro - Biblioteca Pública Retiro Elena Fortún</description>
+			<category>Taller</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959008651&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Recital: Tertulia Arco Poético</title>

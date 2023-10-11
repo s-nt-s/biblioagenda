@@ -2,6 +2,8 @@ from typing import NamedTuple, Tuple, Union
 from datetime import date
 from unidecode import unidecode
 import re
+from urllib.parse import urlparse
+from urllib.parse import parse_qs
 
 from .util import flat
 
@@ -26,14 +28,14 @@ def parse_fecha(dt: Union[date, str, tuple, list]):
         w, d, m = map(unidecode, f.split())
         d = int(d)
         w = [
-            "lunes", "martes", "miercoles", "jueves",
-            "viernes", "sabado", "domingo"
-        ].index(w)
+                "lunes", "martes", "miercoles", "jueves",
+                "viernes", "sabado", "domingo"
+            ].index(w)
         m = [
-            "enero", "febrero", "marzo", "abril", "mayo",
-            "junio", "julio", "agosto", "septiembre", "octubre",
-            "noviembre", "diciembre"
-        ].index(m)+1
+                "enero", "febrero", "marzo", "abril", "mayo",
+                "junio", "julio", "agosto", "septiembre", "octubre",
+                "noviembre", "diciembre"
+            ].index(m)+1
         f = date(today.year, m, d)
         if f.weekday() != w:
             f = date(today.year+1, m, d)
@@ -169,6 +171,12 @@ class Item(NamedTuple):
         obj['tipo'] = parse_tipo(obj['tipo'])
         obj['actividad'] = parse_actividad(obj['actividad'], obj['tipo'])
         return Item(**obj)
+
+    @property
+    def id(self):
+        purl = urlparse(self.url)
+        id = parse_qs(purl.query)['cid'][0]
+        return int(id)
 
     @property
     def is_cancelado(self):
