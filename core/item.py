@@ -156,8 +156,13 @@ class Biblio(NamedTuple):
     def tpubicacion(self):
         if self.ubicacion is None:
             return tuple()
-        spl = map(lambda x: x.strip(), self.ubicacion.split(" - "))
-        return tuple(spl)
+        arr = []
+        for i in self.ubicacion.split(" - "):
+            i = i.strip()
+            i = re.sub("^Barrio de\s+", "", i)
+            if len(i):
+                arr.append(i)
+        return tuple(arr)
 
 
 @dataclass(frozen=True, order=True)
@@ -282,9 +287,6 @@ class Item:
         soup = Web().get(self.url)
         body = soup.select_one("#textoCuerpo")
         body.attrs.clear()
-        p = body.find(text=True)
-        if p.parent == body:
-            p.wrap(soup.new_tag("p"))
         for n in body.findAll(['span']):
             n.unwrap()
         for n in body.select(":scope *"):
@@ -292,6 +294,9 @@ class Item:
             chl = n.select(":scope > *")
             if tuple(map(len, (txt, chl))) == (0, 0):
                 n.extract()
+        p = body.find(text=True)
+        if p.parent == body:
+            p.wrap(soup.new_tag("p"))
         return str(body)
 
 

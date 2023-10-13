@@ -21,13 +21,15 @@ class AgendaRss:
             root: str,
             info: Info,
             title="Biblio Agenda",
-            description="Agenda de las bibliotecas de la Comunidad de Madrid"
+            description="Agenda de las bibliotecas de la Comunidad de Madrid",
+            body=False
     ):
         self.root = root
         self.info = info
         self.destino = destino
         self.title = title
         self.description = description
+        self.body = body
 
     def save(self, out: str):
         feed = rfeed.Feed(
@@ -73,14 +75,17 @@ class AgendaRss:
     def iter_items(self):
         for p in self.info.events:
             b = self.info.kwbiblio[p.biblioteca]
-            yield rfeed.Item(
+            i = rfeed.Item(
                 title=f'{p.tipoactividad}',
                 link=p.url,
                 description='<p>'+dedent(f'''
                     {p.hora} - {' - '.join(p.fecha)}.
                     {b.zona} - <a href="{b.mapa or b.url}">{p.biblioteca}</a>.
-                ''').strip().replace("\n", "<br/>")+'</p>'+p.body,
+                ''').strip().replace("\n", "<br/>")+'</p>',
                 guid=rfeed.Guid(p.url),
                 # pubDate=datetime(*map(int, p.fecha.split("-"))),
                 categories=rfeed.Category(p.tipo)
             )
+            if self.body:
+                i.description = i.description+p.body
+            yield i
