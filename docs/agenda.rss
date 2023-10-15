@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/agenda.rss</link>
 		<description>Agenda de las bibliotecas de la Comunidad de Madrid</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 13 Oct 2023 23:51:42 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 15 Oct 2023 05:09:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -138,34 +138,6 @@ La Subdirección General del Libro de la Comunidad de Madrid organiza esta expos
 &lt;/div&gt;</description>
 			<category>Exposición</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958470302&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958478989&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>&lt;p&gt;18:30 - 2023-10-14-S.&lt;br/&gt;Arganzuela - &lt;a href=&quot;http://maps.google.es/maps?q=40.399559++++,++++-3.6905689999999822&amp;hl=es&amp;sll=40.525282,-3.81603&amp;sspn=3.193966,4.938354&amp;t=h&amp;z=16&quot;&gt;Biblioteca Regional de Madrid Joaquín Leguina&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
-La Subdirección General del Libro ofrece un programa de visitas guiadas a la exposición &lt;/p&gt;&lt;em&gt;Buero será su obra&lt;/em&gt;.
-&lt;p&gt;Esta exposición, comisariada por Virtudes Serrano y Mariano de Paco Moya, hace un recorrido por la vida y la obra de Antonio Buero Vallejo, uno de los autores fundamentales del teatro español del siglo XX.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duración:&lt;/strong&gt; 40/45 minutos&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lugar:&lt;/strong&gt; Sala de Exposiciones de a la Biblioteca Regional&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Imprescindible reserva previa en: &lt;/strong&gt;&lt;a href=&quot;https://actividadesbibliotecascm.es/&quot;&gt;Central de Reservas de Bibliotecas (actividadesbibliotecascm.es)&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;</description>
-			<category>Exposición</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958478989&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>&lt;p&gt;12:30 - 2023-10-14-S.&lt;br/&gt;Arganzuela - &lt;a href=&quot;http://maps.google.es/maps?q=40.399559++++,++++-3.6905689999999822&amp;hl=es&amp;sll=40.525282,-3.81603&amp;sspn=3.193966,4.938354&amp;t=h&amp;z=16&quot;&gt;Biblioteca Regional de Madrid Joaquín Leguina&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
-La Subdirección General del Libro ofrece un programa de visitas guiadas a la exposición &lt;/p&gt;&lt;em&gt;Buero será su obra&lt;/em&gt;.
-&lt;p&gt;Esta exposición, comisariada por Virtudes Serrano y Mariano de Paco Moya, hace un recorrido por la vida y la obra de Antonio Buero Vallejo, uno de los autores fundamentales del teatro español del siglo XX.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duración:&lt;/strong&gt; 40/45 minutos&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lugar:&lt;/strong&gt; Sala de Exposiciones de a la Biblioteca Regional&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Imprescindible reserva previa en: &lt;/strong&gt;&lt;a href=&quot;https://actividadesbibliotecascm.es/&quot;&gt;Central de Reservas de Bibliotecas (actividadesbibliotecascm.es)&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;</description>
-			<category>Exposición</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958479048&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
@@ -450,22 +422,6 @@ El Día del Cine Español, organizado por el Ministerio de Cultura y Deporte, a 
 &lt;/div&gt;</description>
 			<category>Proyección</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958734808&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
-		</item>
-		<item>
-			<title>Proyección: Embrujo</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958737488&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
-			<description>&lt;p&gt;17:00 - 2023-10-14-S.&lt;br/&gt;Usera - &lt;a href=&quot;http://maps.google.es/maps?f=q&amp;hl=es&amp;q=avenida+rafaela+ybarra,+43,+madrid&amp;ie=UTF8&amp;z=17&amp;om=1&amp;iwloc=A&quot;&gt;Biblioteca Pública Usera José Hierro&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
-El Día del Cine Español, organizado por el Ministerio de Cultura y Deporte, a través del Instituto de la Cinematografía y las Artes Audiovisuales (ICAA), con la colaboración de Filmoteca Española, celebrará su tercera edición el viernes 6 de octubre, coincidiendo con el día oficial en que finalizó la producción de &lt;/p&gt;&lt;em&gt;Esa pareja feliz &lt;/em&gt;(1953).
-&lt;p&gt;La Comunidad de Madrid, a través de su red de bibliotecas públicas, se suma a esta conmemoración para poner en valor de forma colectiva el peso y la importancia del cine español como patrimonio cultural, generador de una identidad e imaginario común.&lt;/p&gt;
-&lt;p&gt;La Biblioteca Pública José Hierro proyectará dos películas seleccionadas por Filmoteca Española en las siguientes fechas y horarios:&lt;/p&gt;
-&lt;p&gt;Sábado 14 de octubre a las 12:00 horas - &lt;strong&gt;&lt;em&gt;Valentina&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;, &lt;/em&gt;de Chelo Loureiro (2021), Premio Goya a la mejor película de animación. &lt;strong&gt;Para público infantil&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Sábado 14 de octubre a las 17:00 horas - &lt;strong&gt;&lt;em&gt;Embrujo&lt;/em&gt;&lt;/strong&gt;, de Carlos Serrano de Osma (1948), copia restaurada para esta edición por Filmoteca Española con motivo del centenario del nacimiento de su protagonista, Lola Flores. &lt;strong&gt;Adultos y jóvenes a partir de 14 años&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Entrada libre hasta completar aforo.&lt;/p&gt;
-
-
-&lt;/div&gt;</description>
-			<category>Proyección</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958737488&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
 		</item>
 		<item>
 			<title>Proyección: Las niñas</title>
