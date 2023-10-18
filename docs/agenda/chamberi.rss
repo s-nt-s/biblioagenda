@@ -5,12 +5,12 @@
 		<link>https://s-nt-s.github.io/biblioagenda/chamberi.rss</link>
 		<description>Agenda de las bibliotecas de Chamberí</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 17 Oct 2023 05:16:51 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2023 12:47:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
 			<title>Taller: Corrección de textos</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958758293&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958758293</link>
 			<description>&lt;p&gt;18:00 - 2023-11-15-X.&lt;br/&gt;Chamberí - &lt;a href=&quot;https://goo.gl/maps/Gtdzf2gXAtC2&quot;&gt;Biblioteca Pública Chamberí José Luis Sampedro&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
 Una actividad didáctica y participativa que mostrará los errores más frecuentes en el proceso de escritura y nos ayudará a solucionar conflictos y dudas que se presentan, no solo durante la práctica de la misma, sino también en su lectura.
 &lt;/p&gt;&lt;p&gt;Abordaremos el uso de la mayúscula, minúscula y cursiva, la acentuación de monosílabos y demostrativos, las comas, la puntuación en los diálogos y, en general, los errores más habituales del oficio.&lt;/p&gt;
@@ -26,11 +26,11 @@ Una actividad didáctica y participativa que mostrará los errores más frecuent
 
 &lt;/div&gt;</description>
 			<category>Taller</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354958758293&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958758293</guid>
 		</item>
 		<item>
 			<title>Presentación de libro: Mar de estío</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959014883&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</link>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959014883</link>
 			<description>&lt;p&gt;18:30 - 2023-11-10-V.&lt;br/&gt;Chamberí - &lt;a href=&quot;https://goo.gl/maps/Gtdzf2gXAtC2&quot;&gt;Biblioteca Pública Chamberí José Luis Sampedro&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
 &lt;/p&gt;&lt;em&gt;Mar de estío &lt;/em&gt;es un viaje a la vida, al amor, a la muerte, a los recuerdos, a lo que somos, a los anhelos de lo que no pudo ser, a todo aquello que nos robó algo. Es un viaje  a las cosas que guardamos de nuestra vidas y de las de los otros. Es una colección de latidos al borde de un mar de verano, bullicioso en sus horas de más luz, melancólico en sus momentos de abandono.
 &lt;p&gt;Son lagrimas, algunas viejas, otras nuevas, algunas contenidas, otras derramadas. Es una mirada nostálgica a aquellas noches en que fuimos inmortales.  &lt;/p&gt;
@@ -43,7 +43,7 @@ Una actividad didáctica y participativa que mostrará los errores más frecuent
 
 &lt;/div&gt;</description>
 			<category>Presentación de libro</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;cid=1354959014883&amp;language=es&amp;pageid=1343065588761&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;vest=1343065588761</guid>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959014883</guid>
 		</item>
 	</channel>
 </rss>

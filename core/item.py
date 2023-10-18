@@ -2,11 +2,11 @@ from typing import NamedTuple, Tuple, Union
 from datetime import date
 from unidecode import unidecode
 import re
-from urllib.parse import urlparse
-from urllib.parse import parse_qs
+from urllib.parse import urlparse, parse_qs, quote
 from dataclasses import dataclass, field, fields
 from functools import cached_property
 from .web import Web
+from bs4 import BeautifulSoup, Tag
 
 from .util import flat
 
@@ -200,6 +200,12 @@ class Item:
             if callable(conv):
                 yield fld.name, conv
 
+    def __post_init__url(self):
+        pr = urlparse(self.url)
+        qr = {k: quote(v[0], safe='') for k, v in parse_qs(pr.query).items()}
+        url = self.url.split("?")[0]
+        return url + '?c={c}&pagename={pagename}&cid={cid}'.format(**qr)
+
     def __post_init__id(self):
         purl = urlparse(self.url)
         id = parse_qs(purl.query)['cid'][0]
@@ -283,8 +289,16 @@ class Item:
         return tipo+': '+self.actividad
 
     @cached_property
-    def body(self):
+    def html(self):
         soup = Web().get(self.url)
+        return str(soup)
+
+    def get_soup(self):
+        return BeautifulSoup(self.html, "lxml")
+
+    @cached_property
+    def body(self):
+        soup = self.get_soup()
         body = soup.select_one("#textoCuerpo")
         body.attrs.clear()
         for n in body.findAll(['span']):
@@ -298,6 +312,20 @@ class Item:
         if p.parent == body:
             p.wrap(soup.new_tag("p"))
         return str(body)
+
+    @cached_property
+    def hora_fin(self):
+        soup = self.get_soup()
+        n = soup.select("div[id='datoHora']")[-1]
+        return n.get_text().strip()
+
+    @cached_property
+    def tema(self):
+        soup = self.get_soup()
+        n = soup.select_one("div[id='temaActividad']")
+        for x in n.select(":scope *"):
+            x.extract()
+        return n.get_text().strip()
 
 
 class Info(NamedTuple):

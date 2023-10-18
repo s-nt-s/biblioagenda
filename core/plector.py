@@ -13,6 +13,23 @@ def get_text(n: Tag):
     return t.strip()
 
 
+def visit_biblio(b: Biblio):
+    obj = {}
+    soup = Web().get(b.url)
+    a = soup.find("a", text="Mapa Localización")
+    if a is not None:
+        obj["mapa"] = a.attrs["href"]
+    for p in soup.select("p.ficha_valor"):
+        txt = tuple(map(get_text, p.findAll("span")))
+        if txt[0] == "Ubicación:":
+            obj["ubicacion"] = txt[1]
+    return Biblio(
+        nombre=b.nombre,
+        url=b.url,
+        **obj
+    )
+
+
 class PortalLector:
     AGENDA = "http://www.madrid.org/cs/Satellite?c=Page&cid=1343065588761&language=es&pagename=PortalLector%2FPage%2FPLEC_buscadorAgenda"
     REGIONAL = "http://www.madrid.org/cs/Satellite?c=Page&cid=1343065588936&language=es&pagename=PortalLector%2FPage%2FPLEC_buscadorAgenda"
@@ -51,22 +68,6 @@ class PortalLector:
                     url=tds[3].find("a").attrs["href"]
                 ))
                 items.add(item)
-
-        def visit_biblio(b: Biblio):
-            obj = {}
-            self.w.get(b.url)
-            a = self.w.soup.find("a", text="Mapa Localización")
-            if a is not None:
-                obj["mapa"] = a.attrs["href"]
-            for p in self.w.soup.select("p.ficha_valor"):
-                txt = tuple(map(get_text, p.findAll("span")))
-                if txt[0] == "Ubicación:":
-                    obj["ubicacion"] = txt[1]
-            return Biblio(
-                nombre=b.nombre,
-                url=b.url,
-                **obj
-            )
 
         return Info(
             events=tuple(sorted(items)),
