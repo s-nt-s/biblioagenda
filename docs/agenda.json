@@ -935,18 +935,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958563943&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "id": 1354958564822,
-      "actividad": "Un viaje por la ciencia que nos rodea",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-17"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958564822&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "id": 1354958565671,
       "actividad": "Luisa Carn\u00e9s. Im\u00e1genes de una vida apasionada",
       "edad": "Para todos los p\u00fablicos",
@@ -1236,18 +1224,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958614545&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "id": 1354958614639,
-      "actividad": "Tras la pista de los libros",
-      "edad": "Infantil y Juvenil",
-      "tipo": "Visita a la biblioteca",
-      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
-      "hora": "17:00",
-      "fechas": [
-        "2023-10-17"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958614639&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "id": 1354958614733,
       "actividad": "Inform\u00e1tica b\u00e1sica",
       "edad": "Adultos",
@@ -1354,18 +1330,6 @@
         "2023-10-27"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958631211&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
-      "id": 1354958633427,
-      "actividad": "Itinerario Jardines en torno a la Castellana",
-      "edad": "Adultos",
-      "tipo": "Itinerario cultural",
-      "biblioteca": "Biblioteca P\u00fablica Latina Antonio Mingote",
-      "hora": "11:00",
-      "fechas": [
-        "2023-10-17"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958633427&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
       "id": 1354958635992,
@@ -1492,7 +1456,7 @@
     },
     {
       "id": 1354958661967,
-      "actividad": "Entrega de premios \"Dibuja tu biblioteca ideal\"",
+      "actividad": "Celebra el D\u00eda de las Bibliotecas con nosotros",
       "edad": "Infantil",
       "tipo": "Concurso",
       "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
@@ -1504,7 +1468,7 @@
     },
     {
       "id": 1354958662048,
-      "actividad": "Homenaje a la Copla: Rafael de Le\u00f3n",
+      "actividad": "CANCELADO Homenaje a la Copla: Rafael de Le\u00f3n",
       "edad": "Para todos los p\u00fablicos",
       "tipo": "Conferencia o mesa redonda",
       "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
@@ -2537,18 +2501,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958890685&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     },
     {
-      "id": 1354958890720,
-      "actividad": "Tejemos y leemos",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-17"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354958890720&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
-    },
-    {
       "id": 1354958893315,
       "actividad": "Premios Fotolectura 2023",
       "edad": "Para todos los p\u00fablicos",
@@ -3434,6 +3386,138 @@
         "2023-11-23"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959041566&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959041809,
+      "actividad": "Taller informativo para profesionales sobre prevenci\u00f3n de adicciones en j\u00f3venes",
+      "edad": "Para todos los p\u00fablicos",
+      "tipo": "Conferencia o mesa redonda",
+      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
+      "hora": "12:00",
+      "fechas": [
+        "2023-11-21"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959041809&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959042392,
+      "actividad": "En rima, en prosa y en clave de sol",
+      "edad": "Familiar",
+      "tipo": "Cuentacuentos",
+      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
+      "hora": "12:00",
+      "fechas": [
+        "2023-11-04"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959042392&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959043069,
+      "actividad": "Cuentos monstruosos",
+      "edad": "Familiar",
+      "tipo": "Cuentacuentos",
+      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-17"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959043069&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959044070,
+      "actividad": "Ilustraci\u00f3n en tela",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Carabanchel Luis Rosales",
+      "hora": "12:00",
+      "fechas": [
+        "2023-11-05"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959044070&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959044689,
+      "actividad": "\u00a1Corre, lobo, corre!",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Moncloa-Aravaca Jos\u00e9 Acu\u00f1a",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-16"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959044689&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959045578,
+      "actividad": "Inform\u00e1tica para mayores +60",
+      "edad": "Adultos",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
+      "hora": "18:30",
+      "fechas": [
+        "2023-11-02"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959045578&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959046337,
+      "actividad": "C\u00f3mo ser un maestro del disfraz",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Moratalaz Javier Mar\u00edas",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-14"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959046337&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959046543,
+      "actividad": "Abre tu tienda de Maravillas",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Centro Pedro Salinas",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-17"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959046543&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959047839,
+      "actividad": "\u00bfSo\u00f1ar\u00e1n las camas salir de excursi\u00f3n?",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Latina Antonio Mingote",
+      "hora": "17:30",
+      "fechas": [
+        "2023-11-17"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959047839&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959048273,
+      "actividad": "Me lo he pensado mejor",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
+      "hora": "11:30",
+      "fechas": [
+        "2023-11-04"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959048273&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959048553,
+      "actividad": "Un bodeg\u00f3n guarrindongo",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Puente de Vallecas Miguel Hern\u00e1ndez",
+      "hora": "12:00",
+      "fechas": [
+        "2023-11-04"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959048553&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     }
   ],
   "biblios": [
