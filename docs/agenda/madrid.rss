@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/madrid.rss</link>
 		<description>Agenda de las bibliotecas de Madrid</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 18 Oct 2023 12:47:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2023 16:01:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1061,11 +1061,11 @@ Lectura dramatizada mixta en castellano y castúo en homenaje a los autores extr
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958947175</guid>
 		</item>
 		<item>
-			<title>Debate abierto: la banca para el ciudadano de a pie (I). Entendiendo el sistema financiero</title>
+			<title>Debate abierto: finanzas para el ciudadano de a pie. Conceptos básicos</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958948458</link>
 			<description>&lt;p&gt;18:00 - 2023-11-08-X.&lt;br/&gt;Fuencarral - &lt;a href=&quot;http://maps.google.es/maps?f=q&amp;hl=es&amp;q=Calle+de+Sangenjo,+38,+28034,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&amp;ie=UTF8&amp;z=17&amp;om=1&amp;iwloc=A&quot;&gt;Biblioteca Pública Fuencarral-El Pardo Rafael Alberti&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
 Bajo el lema 'Debate abierto', la Biblioteca invita a participar en mesas redondas a todas aquellas personas interesadas en reflexionar e intercambiar opiniones y experiencias en un ambiente distendido en el que se pretende, fundamentalmente, compartir conocimientos y cultura.
-&lt;/p&gt;&lt;p&gt;El presentador expondrá el tema durante 15 minutos, tras los cuales, los asistentes empezarán a debatir en turnos de tiempo controlados por el moderador. Los conceptos básicos a tratar en este debate serán los relacionados con la confianza, la liquidez y la solvencia en el sistema financiero, así como qué son los fondos de garantía, la renta fija y las tarjetas revolving.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;El presentador expondrá el tema durante 15 minutos, tras los cuales, los asistentes empezarán a debatir en turnos de tiempo controlados por el moderador. Los conceptos básicos a tratar serán los relacionados con la confianza, la liquidez y la solvencia en el sistema financiero, así como qué son los fondos de garantía de depósitos, la renta fija y las tarjetas revolving.&lt;/p&gt;
 &lt;p&gt;Por: Rodrigo Martos Cobler (ponente)&lt;/p&gt;
 &lt;p&gt;Lugar: Salón de actos&lt;/p&gt;
 &lt;p&gt;Entrada libre hasta completar aforo.&lt;/p&gt;
@@ -1073,6 +1073,20 @@ Bajo el lema 'Debate abierto', la Biblioteca invita a participar en mesas redo
 &lt;/div&gt;</description>
 			<category>Conferencia o mesa redonda</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958948458</guid>
+		</item>
+		<item>
+			<title>Debate abierto: finanzas para el ciudadano de a pie. La inversión</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958977415</link>
+			<description>&lt;p&gt;18:00 - 2023-11-15-X.&lt;br/&gt;Fuencarral - &lt;a href=&quot;http://maps.google.es/maps?f=q&amp;hl=es&amp;q=Calle+de+Sangenjo,+38,+28034,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&amp;ie=UTF8&amp;z=17&amp;om=1&amp;iwloc=A&quot;&gt;Biblioteca Pública Fuencarral-El Pardo Rafael Alberti&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
+Bajo el lema 'Debate abierto', la Biblioteca invita a participar en mesas redondas a todas aquellas personas interesadas en reflexionar e intercambiar opiniones y experiencias en un ambiente distendido en el que se pretende, fundamentalmente, compartir conocimientos y cultura.
+&lt;/p&gt;&lt;p&gt;El presentador expondrá el tema durante 15 minutos, tras los cuales, los asistentes empezarán a debatir en turnos de tiempo controlados por el moderador. Los temas a tratar serán el test Mifid; activos financieros; rentabilidad, liquidez y seguridad; rentabilidad y fiscalidad; depósitos, letras, acciones, fondos, etc.&lt;/p&gt;
+&lt;p&gt;Por: José Manuel López Vuelta (ponente)&lt;/p&gt;
+&lt;p&gt;Lugar: Salón de actos&lt;/p&gt;
+&lt;p&gt;Entrada libre hasta completar aforo.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958977415</guid>
 		</item>
 		<item>
 			<title>Encuentro con autor: Clara Sánchez</title>
@@ -1387,6 +1401,43 @@ Taller de introducción a la informática para familiarizarse y manejar el orden
 &lt;/div&gt;</description>
 			<category>Taller</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959063413</guid>
+		</item>
+		<item>
+			<title>Encuentro con autor: Catriona Ward</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959063707</link>
+			<description>&lt;p&gt;19:00 - 2023-10-29-D.&lt;br/&gt;Centro - &lt;a href=&quot;http://maps.google.es/maps?q=c%2F+Alcal%C3%A1+31&amp;hl=es&amp;ie=UTF8&amp;ll=40.418397,-3.698444&amp;spn=0.008185,0.01929&amp;sll=40.396764,-3.713379&amp;sspn=8.38053,19.753418&amp;z=16&quot;&gt;Unidad Central de Bibliotecas Públicas (Comunidad de Madrid)&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
+El próximo domingo 29 de octubre tendremos con nosotros a la escritora británica Catriona Ward, para hablar largo y tendido sobre su novela, &lt;/p&gt;&lt;em&gt;Sundial,&lt;/em&gt; que abrió el club esta temporada&lt;em&gt;.&lt;/em&gt;
+&lt;p&gt;Catriona Ward es una de las voces imprescindibles del horror literario actual, con una forma de modular el terror en pequeñas dosis, atrapando al lector mediante una atmósfera única que lo arrastra sin soltarlo hasta el final.&lt;/p&gt;
+&lt;p&gt;Es autora de novelas como &lt;em&gt;La pequeña Eve&lt;/em&gt;, &lt;em&gt;La casa al final de Needless Street &lt;/em&gt;o &lt;em&gt;Sundial&lt;/em&gt;, siempre ofreciendo una vuelta de tuerca a la narrativa tradicional, sabiendo utilizar los elementos más arraigados, como los propios de la ficción gótica, y renovándolos con su literatura.&lt;/p&gt;
+&lt;p&gt;Por si fuera poco, la misma semana que nos visita se publicará en España su última novela, &lt;em&gt;La bahía del espejo &lt;/em&gt;(26 de octubre), por lo que nos contará en exclusiva, siendo la primera charla y presentación en español de su obra, todo lo que se esconde tras su nuevo título.&lt;/p&gt;
+&lt;p&gt;Una oportunidad única para que preguntes todo lo que se te ocurra a esta escritora en una sesión que no puedes perderte.&lt;/p&gt;
+&lt;p&gt; El encuentro se realizará de manera virtual a través de YouTube, quien lo desee podrá asistir en directo y participar a través del chat mediante el siguiente enlace: &lt;a href=&quot;https://www.youtube.com/watch?v=6el0c77H85g&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;https://www.youtube.com/watch?v=6el0c77H85g&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;El encuentro contará con intérprete  inglés-español para que no te pierdas nada.&lt;/p&gt;
+
+
+
+
+
+
+&lt;/div&gt;</description>
+			<category>Encuentro con autor</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959063707</guid>
+		</item>
+		<item>
+			<title>Recital: Festival Internacional de Poesía</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959065184</link>
+			<description>&lt;p&gt;18:00 - 2023-10-26-J.&lt;br/&gt;Chamberí - &lt;a href=&quot;https://goo.gl/maps/Gtdzf2gXAtC2&quot;&gt;Biblioteca Pública Chamberí José Luis Sampedro&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
+La ciudad de Madrid, con el coauspicio de varias instituciones de esta urbe literaria, entre las que destacan la Universidad Complutense de Madrid, el Ayuntamiento de Madrid, Comunidad de Madrid, Ayuntamiento de Arganda del Rey y la Editorial Verbum, convocan al IX Festival Internacional de Poesía Madrid.
+&lt;/p&gt;&lt;p&gt;Los poetas invitados y el público podrán asistir a recitales, presentaciones de libros, lecturas, charlas y conferencias, emplazadas en diferentes espacios culturales y educativos de la ciudad de Madrid.&lt;/p&gt;
+&lt;p&gt;La Biblioteca Pública José Luis Sampedro ofrecerá una lectura de poemas, dentro de los actos programados en este Festival que llenará de poesía las calles de Madrid desde el miércoles 25 al viernes 27 de octubre.&lt;/p&gt;
+&lt;p&gt;Día: 26 de octubre a las 18:00 horas.&lt;/p&gt;
+&lt;p&gt;Lugar: Salón de actos de la biblioteca.&lt;/p&gt;
+&lt;p&gt;Plazas limitadas. Entrada libre hasta completar aforo.&lt;/p&gt;
+
+
+&lt;/div&gt;</description>
+			<category>Recital o lectura en público</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959065184</guid>
 		</item>
 	</channel>
 </rss>

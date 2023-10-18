@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/fuencarral.rss</link>
 		<description>Agenda de las bibliotecas de Fuencarral</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 18 Oct 2023 12:47:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2023 16:01:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -161,11 +161,11 @@ Lectura dramatizada mixta en castellano y castúo en homenaje a los autores extr
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958947175</guid>
 		</item>
 		<item>
-			<title>Debate abierto: la banca para el ciudadano de a pie (I). Entendiendo el sistema financiero</title>
+			<title>Debate abierto: finanzas para el ciudadano de a pie. Conceptos básicos</title>
 			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958948458</link>
 			<description>&lt;p&gt;18:00 - 2023-11-08-X.&lt;br/&gt;Fuencarral - &lt;a href=&quot;http://maps.google.es/maps?f=q&amp;hl=es&amp;q=Calle+de+Sangenjo,+38,+28034,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&amp;ie=UTF8&amp;z=17&amp;om=1&amp;iwloc=A&quot;&gt;Biblioteca Pública Fuencarral-El Pardo Rafael Alberti&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
 Bajo el lema 'Debate abierto', la Biblioteca invita a participar en mesas redondas a todas aquellas personas interesadas en reflexionar e intercambiar opiniones y experiencias en un ambiente distendido en el que se pretende, fundamentalmente, compartir conocimientos y cultura.
-&lt;/p&gt;&lt;p&gt;El presentador expondrá el tema durante 15 minutos, tras los cuales, los asistentes empezarán a debatir en turnos de tiempo controlados por el moderador. Los conceptos básicos a tratar en este debate serán los relacionados con la confianza, la liquidez y la solvencia en el sistema financiero, así como qué son los fondos de garantía, la renta fija y las tarjetas revolving.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;El presentador expondrá el tema durante 15 minutos, tras los cuales, los asistentes empezarán a debatir en turnos de tiempo controlados por el moderador. Los conceptos básicos a tratar serán los relacionados con la confianza, la liquidez y la solvencia en el sistema financiero, así como qué son los fondos de garantía de depósitos, la renta fija y las tarjetas revolving.&lt;/p&gt;
 &lt;p&gt;Por: Rodrigo Martos Cobler (ponente)&lt;/p&gt;
 &lt;p&gt;Lugar: Salón de actos&lt;/p&gt;
 &lt;p&gt;Entrada libre hasta completar aforo.&lt;/p&gt;
@@ -173,6 +173,20 @@ Bajo el lema 'Debate abierto', la Biblioteca invita a participar en mesas redo
 &lt;/div&gt;</description>
 			<category>Conferencia o mesa redonda</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958948458</guid>
+		</item>
+		<item>
+			<title>Debate abierto: finanzas para el ciudadano de a pie. La inversión</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958977415</link>
+			<description>&lt;p&gt;18:00 - 2023-11-15-X.&lt;br/&gt;Fuencarral - &lt;a href=&quot;http://maps.google.es/maps?f=q&amp;hl=es&amp;q=Calle+de+Sangenjo,+38,+28034,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&amp;ie=UTF8&amp;z=17&amp;om=1&amp;iwloc=A&quot;&gt;Biblioteca Pública Fuencarral-El Pardo Rafael Alberti&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
+Bajo el lema 'Debate abierto', la Biblioteca invita a participar en mesas redondas a todas aquellas personas interesadas en reflexionar e intercambiar opiniones y experiencias en un ambiente distendido en el que se pretende, fundamentalmente, compartir conocimientos y cultura.
+&lt;/p&gt;&lt;p&gt;El presentador expondrá el tema durante 15 minutos, tras los cuales, los asistentes empezarán a debatir en turnos de tiempo controlados por el moderador. Los temas a tratar serán el test Mifid; activos financieros; rentabilidad, liquidez y seguridad; rentabilidad y fiscalidad; depósitos, letras, acciones, fondos, etc.&lt;/p&gt;
+&lt;p&gt;Por: José Manuel López Vuelta (ponente)&lt;/p&gt;
+&lt;p&gt;Lugar: Salón de actos&lt;/p&gt;
+&lt;p&gt;Entrada libre hasta completar aforo.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+			<category>Conferencia o mesa redonda</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958977415</guid>
 		</item>
 		<item>
 			<title>Conferencia: Extinción: fin de una especie</title>
