@@ -6,7 +6,7 @@ from urllib.parse import urlparse, parse_qs, quote
 from dataclasses import dataclass, field, fields
 from functools import cached_property
 from .web import Web
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 
 from .util import flat
 
@@ -166,7 +166,7 @@ class Biblio(NamedTuple):
 
 
 @dataclass(frozen=True, order=True)
-class Item:
+class Event:
     id: int = field(init=False, repr=False, compare=True, hash=True)
     actividad: str = field(compare=False, hash=False)
     edad: str = field(compare=False, hash=False)
@@ -183,7 +183,7 @@ class Item:
         for k in list(obj.keys()):
             if k not in flds:
                 del obj[k]
-        return Item(**obj)
+        return Event(**obj)
 
     def __post_init__(self):
         for fld, conv in self.__iter_post_init():
@@ -329,13 +329,13 @@ class Item:
 
 
 class Info(NamedTuple):
-    events: Tuple[Item]
+    events: Tuple[Event]
     biblios: Tuple[Biblio]
 
     @staticmethod
     def build(*args, **kwargs):
         obj = get_obj(*args, **kwargs)
-        obj['events'] = tuple(map(Item.build, obj['events']))
+        obj['events'] = tuple(map(Event.build, obj['events']))
         obj['biblios'] = tuple(map(Biblio.build, obj['biblios']))
         return Info(**obj)
 
@@ -359,8 +359,8 @@ class Info(NamedTuple):
         kw = {b.nombre: b for b in self.biblios}
         return kw
 
-    def get_biblio(self, i: Union[Item, str]) -> Biblio:
-        if isinstance(i, Item):
+    def get_biblio(self, i: Union[Event, str]) -> Biblio:
+        if isinstance(i, Event):
             i = i.biblioteca
         return self.kwbiblio[i]
 

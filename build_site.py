@@ -4,7 +4,7 @@ from core.j2 import Jnj2, simplify
 from core.plector import PortalLector
 from core.rss import AgendaRss
 from core.web import get_text
-from core.item import Info, Item, Biblio
+from core.item import Info, Event, Biblio
 from datetime import datetime
 import json
 
@@ -38,7 +38,7 @@ def readhtml(path: str):
         return f.read()
 
 
-def fltr(i: Item, b: Biblio):
+def fltr(i: Event, b: Biblio):
     return i.is_adulto and i.is_tarde_o_finde and not i.is_cancelado
 
 
@@ -76,7 +76,7 @@ AgendaRss(
 ).save("madrid.rss")
 
 for zona in INFO.get_zonas():
-    def zfltr(i: Item, b: Biblio):
+    def zfltr(i: Event, b: Biblio):
         return b.zona == zona
     AgendaRss(
         destino="docs/agenda/",

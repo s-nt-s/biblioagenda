@@ -1,5 +1,5 @@
 from .web import Web
-from .item import Item, Biblio, Info
+from .item import Event, Biblio, Info
 from bs4 import Tag
 import re
 from typing import NamedTuple, Tuple, Set
@@ -56,7 +56,7 @@ class PortalLector:
         items = set()
         for row in self.__get_rows(*urls):
             txt = iter(row.txt)
-            item = Item(
+            item = Event(
                 actividad=next(txt),
                 edad=next(txt),
                 tipo=next(txt),
