@@ -1332,18 +1332,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958631211"
     },
     {
-      "id": 1354958635992,
-      "actividad": "Visita guiada a la exposici\u00f3n 'Medardo Rosso'",
-      "edad": "Adultos",
-      "tipo": "Itinerario cultural",
-      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
-      "hora": "12:30",
-      "fechas": [
-        "2023-10-18"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958635992"
-    },
-    {
       "id": 1354958637736,
       "actividad": "Visita guiada a la exposici\u00f3n 'Medardo Rosso'",
       "edad": "Adultos",
@@ -2417,18 +2405,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958877594"
     },
     {
-      "id": 1354958878840,
-      "actividad": "Taller. Lecturas compasivas",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "11:00",
-      "fechas": [
-        "2023-10-18"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958878840"
-    },
-    {
       "id": 1354958883633,
       "actividad": "Los secretos del ADN",
       "edad": "Infantil",
@@ -2720,7 +2696,7 @@
     },
     {
       "id": 1354958948458,
-      "actividad": "Debate abierto: la banca para el ciudadano de a pie (I). Entendiendo el sistema financiero",
+      "actividad": "Debate abierto: finanzas para el ciudadano de a pie. Conceptos b\u00e1sicos",
       "edad": "Para todos los p\u00fablicos",
       "tipo": "Conferencia o mesa redonda",
       "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
@@ -2960,6 +2936,18 @@
         "2023-11-15"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958975215"
+    },
+    {
+      "id": 1354958977415,
+      "actividad": "Debate abierto: finanzas para el ciudadano de a pie. La inversi\u00f3n",
+      "edad": "Para todos los p\u00fablicos",
+      "tipo": "Conferencia o mesa redonda",
+      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-15"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958977415"
     },
     {
       "id": 1354958979127,
@@ -3591,6 +3579,54 @@
         "2023-11-24"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959063413"
+    },
+    {
+      "id": 1354959063707,
+      "actividad": "Catriona Ward",
+      "edad": "J\u00f3venes y adultos",
+      "tipo": "Encuentro con autor",
+      "biblioteca": "Unidad Central de Bibliotecas P\u00fablicas (Comunidad de Madrid)",
+      "hora": "19:00",
+      "fechas": [
+        "2023-10-29"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959063707"
+    },
+    {
+      "id": 1354959064104,
+      "actividad": "\u00bfQu\u00e9 esconde una piedra?",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca Municipal Almudena Grandes (Ciempozuelos)",
+      "hora": "18:30",
+      "fechas": [
+        "2023-11-10"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959064104"
+    },
+    {
+      "id": 1354959065184,
+      "actividad": "Festival Internacional de Poes\u00eda",
+      "edad": "J\u00f3venes y adultos",
+      "tipo": "Recital o lectura en p\u00fablico",
+      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
+      "hora": "18:00",
+      "fechas": [
+        "2023-10-26"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959065184"
+    },
+    {
+      "id": 1354959065725,
+      "actividad": "Una grand\u00edsima indigesti\u00f3n",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca del Centro Comarcal de Humanidades Cardenal Gonzaga. Sierra Norte",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-17"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959065725"
     }
   ],
   "biblios": [
@@ -3905,6 +3941,12 @@
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=52",
       "ubicacion": "Madrid - Arganzuela - Delicias",
       "mapa": "http://maps.google.es/maps?q=40.399559++++,++++-3.6905689999999822&hl=es&sll=40.525282,-3.81603&sspn=3.193966,4.938354&t=h&z=16"
+    },
+    {
+      "nombre": "Biblioteca del Centro Comarcal de Humanidades Cardenal Gonzaga. Sierra Norte",
+      "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=97",
+      "ubicacion": "Cabrera (La)",
+      "mapa": "https://www.google.com/maps/place/Av.+de+la+Cabrera,+96,+28751+La+Cabrera,+Madrid/@40.8729051,-3.6086058,17z/data=!3m1!4b1!4m6!3m5!1s0xd43dd174fa75a1d:0x6e7937601adbbf1d!8m2!3d40.8729051!4d-3.6060309!16s%2Fg%2F11cpb9dwrn?hl=es&entry=ttu"
     },
     {
       "nombre": "Centro de Lectura El Atazar",

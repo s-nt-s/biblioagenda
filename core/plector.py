@@ -2,6 +2,7 @@ from .web import Web
 from .item import Item, Biblio, Info
 from bs4 import Tag
 import re
+from typing import NamedTuple, Set
 
 re_sp = re.compile(r"\s+")
 
@@ -30,6 +31,17 @@ def visit_biblio(b: Biblio):
     )
 
 
+class Row(NamedTuple):
+    actividad: str
+    edad: str
+    tipo: str
+    hora: str
+    fechas: str
+    url: str
+    biblio_nombre: str
+    biblio_url: str
+
+
 class PortalLector:
     AGENDA = "http://www.madrid.org/cs/Satellite?c=Page&cid=1343065588761&language=es&pagename=PortalLector%2FPage%2FPLEC_buscadorAgenda"
     REGIONAL = "http://www.madrid.org/cs/Satellite?c=Page&cid=1343065588936&language=es&pagename=PortalLector%2FPage%2FPLEC_buscadorAgenda"
@@ -38,13 +50,36 @@ class PortalLector:
         self.w = Web()
 
     def get_info(self, *urls):
+        biblios = set()
+        items = set()
+        for row in self.__get_rows(*urls):
+            item = Item(
+                actividad=row.actividad,
+                edad=row.edad,
+                tipo=row.tipo,
+                biblioteca=row.biblio_nombre,
+                hora=row.hora,
+                fechas=row.fechas,
+                url=row.url
+            )
+            biblios.add(Biblio(
+                nombre=item.biblioteca,
+                url=row.biblio_url
+            ))
+            items.add(item)
+
+        return Info(
+            events=tuple(sorted(items)),
+            biblios=tuple(sorted(map(visit_biblio, biblios)))
+        )
+
+    def __get_rows(self, *urls):
         if len(urls) == 0:
             urls = (
                 PortalLector.AGENDA,
                 PortalLector.REGIONAL
             )
-        biblios = set()
-        items = set()
+        rows: Set[Row] = set()
         for url in urls:
             self.w.get(url)
             self.w.submit(
@@ -52,27 +87,20 @@ class PortalLector:
                 registros=1000
             )
             for tr in self.w.soup.select("#tablaAgenda tbody tr"):
-                tds = tr.findAll("td")
+                tds: list[Tag] = tr.findAll("td")
                 txt = iter(map(get_text, tds))
-                item = Item.build(
+                rows.add(Row(
                     actividad=next(txt),
                     edad=next(txt),
                     tipo=next(txt),
-                    biblioteca=next(txt),
+                    biblio_nombre=next(txt),
                     hora=next(txt),
                     fechas=next(txt),
-                    url=tds[0].find("a").attrs["href"]
-                )
-                biblios.add(Biblio(
-                    nombre=item.biblioteca,
-                    url=tds[3].find("a").attrs["href"]
+                    url=tds[0].find("a").attrs["href"],
+                    biblio_url=tds[3].find("a").attrs["href"]
                 ))
-                items.add(item)
 
-        return Info(
-            events=tuple(sorted(items)),
-            biblios=tuple(sorted(map(visit_biblio, biblios)))
-        )
+        return rows
 
 
 if __name__ == "__main__":
