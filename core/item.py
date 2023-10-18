@@ -257,7 +257,7 @@ class Event:
             txt = f.strftime("%Y-%m-%d")
             txt = txt + "-{}".format("LMXJVSD"[f.weekday()])
             fechas.append(txt)
-        return fechas
+        return tuple(fechas)
 
     @cached_property
     def lugar(self):
