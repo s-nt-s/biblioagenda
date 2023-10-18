@@ -3518,6 +3518,79 @@
         "2023-11-04"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959048553&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959060834,
+      "actividad": "Technovation girls",
+      "edad": "Infantil y Juvenil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-10"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959060834&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959061046,
+      "actividad": "A escribir dibujos y poemas visuales",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca Municipal Gloria Fuertes",
+      "hora": "18:00",
+      "fechas": [
+        "2023-11-18"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959061046&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959061945,
+      "actividad": "Poes\u00eda can\u00edbal",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Villa de Vallecas Luis Mart\u00edn-Santos",
+      "hora": "17:30",
+      "fechas": [
+        "2023-11-17"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959061945&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959062124,
+      "actividad": "Bosques familiares",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca Municipal de Campo Real",
+      "hora": "17:30",
+      "fechas": [
+        "2023-11-09"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959062124&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959063128,
+      "actividad": "El poder m\u00e1gico de los alimentos",
+      "edad": "Infantil",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
+      "hora": "17:30",
+      "fechas": [
+        "2023-11-07"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959063128&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
+    },
+    {
+      "id": 1354959063413,
+      "actividad": "Inform\u00e1tica b\u00e1sica",
+      "edad": "Adultos",
+      "tipo": "Taller",
+      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
+      "hora": "16:00",
+      "fechas": [
+        "2023-11-20",
+        "2023-11-24"
+      ],
+      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&cid=1354959063413&language=es&pageid=1343065588761&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&vest=1343065588761"
     }
   ],
   "biblios": [
@@ -3574,6 +3647,12 @@
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=266",
       "ubicacion": "Villanueva de la Ca\u00f1ada",
       "mapa": "https://www.google.com/maps/place/Av.+de+Gaud%C3%AD,+27,+28691+Villanueva+de+la+Ca%C3%B1ada,+Madrid/@40.4502341,-4.0035277,17z/data=!3m1!4b1!4m6!3m5!1s0xd41997119218943:0xbad049b1e27ded52!8m2!3d40.4502341!4d-4.0009528!16s%2Fg%2F11cnclwfss?entry=ttu"
+    },
+    {
+      "nombre": "Biblioteca Municipal Gloria Fuertes",
+      "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=180",
+      "ubicacion": "Parla",
+      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=alfonso,+XIII,+parla,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=17&om=1&iwloc=A"
     },
     {
       "nombre": "Biblioteca Municipal Isabel Allende",
@@ -3658,6 +3737,12 @@
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=99",
       "ubicacion": "Camarma de Esteruelas",
       "mapa": "http://maps.google.es/maps?f=q&hl=es&q=la+soledad,camarma+de+esteruelas,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&ie=UTF8&z=16&om=1&iwloc=A"
+    },
+    {
+      "nombre": "Biblioteca Municipal de Campo Real",
+      "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=100",
+      "ubicacion": "Campo Real",
+      "mapa": "http://maps.google.es/maps?q=carretera+villar+del+olmo,+4+campo+real&hl=es&ll=40.339921,-3.374348&spn=0.009502,0.013797&sll=40.2085,-3.713&sspn=19.465287,28.256836&hnear=Carretera+Villar+del+Olmo,+4,+Campo+Real,+Madrid&t=m&z=16"
     },
     {
       "nombre": "Biblioteca Municipal de El Escorial",
