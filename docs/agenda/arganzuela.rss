@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/arganzuela.rss</link>
 		<description>Agenda de las bibliotecas de Arganzuela</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 20 Oct 2023 05:17:58 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 21 Oct 2023 05:17:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,20 +23,6 @@ La Subdirección General del Libro de la Comunidad de Madrid organiza esta expos
 &lt;/div&gt;</description>
 			<category>Exposición</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958470302</guid>
-		</item>
-		<item>
-			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
-			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958479165</link>
-			<description>&lt;p&gt;18:30 - 2023-10-20-V.&lt;br/&gt;Arganzuela - &lt;a href=&quot;http://maps.google.es/maps?q=40.399559++++,++++-3.6905689999999822&amp;hl=es&amp;sll=40.525282,-3.81603&amp;sspn=3.193966,4.938354&amp;t=h&amp;z=16&quot;&gt;Biblioteca Regional de Madrid Joaquín Leguina&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
-La Subdirección General del Libro ofrece un programa de visitas guiadas a la exposición &lt;/p&gt;&lt;em&gt;Buero será su obra&lt;/em&gt;.
-&lt;p&gt;Esta exposición, comisariada por Virtudes Serrano y Mariano de Paco Moya, hace un recorrido por la vida y la obra de Antonio Buero Vallejo, uno de los autores fundamentales del teatro español del siglo XX.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duración:&lt;/strong&gt; 40/45 minutos&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lugar:&lt;/strong&gt; Sala de Exposiciones de a la Biblioteca Regional&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Imprescindible reserva previa en: &lt;/strong&gt;&lt;a href=&quot;https://actividadesbibliotecascm.es/&quot;&gt;Central de Reservas de Bibliotecas (actividadesbibliotecascm.es)&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;</description>
-			<category>Exposición</category>
-			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958479165</guid>
 		</item>
 		<item>
 			<title>Visita guiada a la Exposición &quot;Buero será su obra&quot;</title>
@@ -76,6 +62,7 @@ El Festival Eñe es un evento literario de renombre que ha estado en marcha desd
 &lt;p&gt;&lt;strong&gt;Sábado 21 de octubre&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Horario: &lt;/strong&gt;Todo el día&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lugar:&lt;/strong&gt; Salón de actos y otros espacios&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLbulj7TW5CZag6JqTrPr1IGrqWSrj0zq6&quot; onclick=&quot;window.open(this.href,'','resizable=no,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,fullscreen=no,dependent=no,status'); return false&quot;&gt;Retrasmisión en directo&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Consigue tu entrada gratuita en : &lt;a href=&quot;https://www.lafabrica.com/festivalene/suscribete-a-nuestra-newsletter/&quot; onclick=&quot;window.open(this.href,'','resizable=no,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,fullscreen=no,dependent=no,status'); return false&quot;&gt;enlace&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Programación en la &lt;a href=&quot;https://www.lafabrica.com/festivalene/wp-content/uploads/2023/10/Festival-Ene-Programa-2023.pdf&quot; onclick=&quot;window.open(this.href,'','resizable=no,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,fullscreen=no,dependent=no,status'); return false&quot;&gt;web del Festival Eñe&lt;/a&gt;&lt;/p&gt;
