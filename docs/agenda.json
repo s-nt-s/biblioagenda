@@ -989,18 +989,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958637825"
     },
     {
-      "id": 1354958637911,
-      "actividad": "Risoterapia \u00bfSe puede ser m\u00e1s inteligente?",
-      "edad": "Adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
-      "hora": "11:30",
-      "fechas": [
-        "2023-10-23"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958637911"
-    },
-    {
       "id": 1354958642589,
       "actividad": "\"Los ins\u00f3litos de Usera\" Club de lectura",
       "edad": "Adultos",
@@ -1681,18 +1669,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958847120"
     },
     {
-      "id": 1354958847765,
-      "actividad": "Feminismo",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "10:00",
-      "fechas": [
-        "2023-10-23"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958847765"
-    },
-    {
       "id": 1354958847828,
       "actividad": "Taller sobre violencia machista",
       "edad": "J\u00f3venes y adultos",
@@ -1879,18 +1855,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958887763"
     },
     {
-      "id": 1354958888329,
-      "actividad": "Marta Robles",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Encuentro con autor",
-      "biblioteca": "Biblioteca P\u00fablica Puente de Vallecas Miguel Hern\u00e1ndez",
-      "hora": "19:00",
-      "fechas": [
-        "2023-10-23"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958888329"
-    },
-    {
       "id": 1354958889706,
       "actividad": "Crea tu propia exposici\u00f3n en el Palacio de Cristal",
       "edad": "Infantil",
@@ -1939,18 +1903,6 @@
         "2023-11-30"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958898406"
-    },
-    {
-      "id": 1354958901308,
-      "actividad": "Anim\u00e1gico Glot\u00f3n",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca Municipal Miguel Hern\u00e1ndez",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-23"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958901308"
     },
     {
       "id": 1354958912260,
@@ -2243,7 +2195,7 @@
     },
     {
       "id": 1354958972293,
-      "actividad": "Scape Room El libro perdido",
+      "actividad": "CANCELADA - Scape Room El libro perdido",
       "edad": "Infantil",
       "tipo": "Taller",
       "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
@@ -2397,18 +2349,6 @@
         "2023-11-24"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959004334"
-    },
-    {
-      "id": 1354959008651,
-      "actividad": "Superar la violencia personal y social",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Retiro Elena Fort\u00fan",
-      "hora": "19:00",
-      "fechas": [
-        "2023-10-23"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959008651"
     },
     {
       "id": 1354959009201,
