@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/biblioagenda/latina.rss</link>
 		<description>Agenda de las bibliotecas de Latina</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 18 Oct 2023 12:47:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Oct 2023 05:16:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -40,6 +40,43 @@ Una actividad didáctica y participativa que mostrará los errores más frecuent
 &lt;/div&gt;</description>
 			<category>Taller</category>
 			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354958761574</guid>
+		</item>
+		<item>
+			<title>Taller: Charla-taller Duelo en la Biblioteca.</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959089220</link>
+			<description>&lt;p&gt;18:00 - 2023-11-16-J.&lt;br/&gt;Latina - &lt;a href=&quot;http://maps.google.es/maps?f=q&amp;hl=es&amp;q=rafael+finat,+51,+28034,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&amp;ie=UTF8&amp;z=17&amp;ll=40.380519,-3.768461&amp;spn=0.004372,0.012102&amp;om=1&amp;iwloc=A&quot;&gt;Biblioteca Pública Latina Antonio Mingote&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
+Desde el CMSC latina y con la colaboración de la Biblioteca Antonio Mingote, te proponemos un ciclo de sesiones que hemos titulado &quot;Duelo en la biblioteca&quot;.
+&lt;/p&gt;&lt;p&gt;Cada mes abriremos un espacio de reflexión emocional y diálogo para entender el duelo como proceso natural.&lt;/p&gt;
+&lt;p&gt;En cada sesión se trabajarán diferentes emociones y se abordará todo el proceso a través de distintas técnicas que ayudarán a afrontar estas situaciones.&lt;/p&gt;
+&lt;p&gt; Por: CMSc Latina. Proyecto Comunidades Compasivas.&lt;/p&gt;
+&lt;p&gt;Actividad destinada a jóvenes y adultos. &lt;/p&gt;
+&lt;p&gt;Día: jueves 16 de noviembre&lt;/p&gt;
+&lt;p&gt;Hora: 18:00 a 20:00 h.&lt;/p&gt;
+&lt;p&gt;Lugar: sala de talleres.&lt;/p&gt;
+&lt;p&gt;Plazas limitadas. Inscripciones por orden de llegada en la biblioteca a partir del día 2 de novembre 
+&lt;/p&gt;
+
+
+&lt;/div&gt;</description>
+			<category>Taller</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959089220</guid>
+		</item>
+		<item>
+			<title>Encuentro con autor: El autor Germán alias Creativo</title>
+			<link>http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959089574</link>
+			<description>&lt;p&gt;19:00 - 2023-11-03-V.&lt;br/&gt;Latina - &lt;a href=&quot;http://maps.google.es/maps?f=q&amp;hl=es&amp;q=rafael+finat,+51,+28034,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&amp;ie=UTF8&amp;z=17&amp;ll=40.380519,-3.768461&amp;spn=0.004372,0.012102&amp;om=1&amp;iwloc=A&quot;&gt;Biblioteca Pública Latina Antonio Mingote&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;&lt;p&gt;
+La obra que presenta Creativo es un conjunto de poemas de sus vivencias a lo largo de muchos años de vicisitudes vitales.
+&lt;/p&gt;&lt;p&gt;Amor, desamor, soledad, verdad de la pareja...todo lo que confiere al universo del ser humano. Una reflexión de los sentimientos del género humano y de lo divino a través de la poesía y de frases reflexivas y que pretende que el lector se identifique con ellas.&lt;/p&gt;
+&lt;p&gt;&quot;&lt;em&gt;No soy de ideas fijas, soy de sueños locos&quot;. &lt;/em&gt;Germán Torres, alias Creativo es un vecino del distrito que actualmente escribe poemas y disfruta con clases de teatro, locución y doblaje .&lt;/p&gt;
+&lt;p&gt;Por: Creativo, autor.&lt;/p&gt;
+&lt;p&gt;Día: viernes 3 de noviembre.&lt;/p&gt;
+&lt;p&gt;Hora: 19:00 h.&lt;/p&gt;
+&lt;p&gt;Lugar: salón de actos&lt;/p&gt;
+&lt;p&gt;Entrada libre hasta completar aforo.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+			<category>Encuentro con autor</category>
+			<guid isPermaLink="true">http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&amp;pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&amp;cid=1354959089574</guid>
 		</item>
 	</channel>
 </rss>
