@@ -141,30 +141,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958281642"
     },
     {
-      "id": 1354958283273,
-      "actividad": "Un vecindario extraordinario",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca Municipal de Talamanca de Jarama",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958283273"
-    },
-    {
-      "id": 1354958283810,
-      "actividad": "Sembrando poemas",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca Municipal Elena Soriano",
-      "hora": "17:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958283810"
-    },
-    {
       "id": 1354958289633,
       "actividad": "Libros a la calle",
       "edad": "Para todos los p\u00fablicos",
@@ -406,18 +382,6 @@
         "2023-11-30"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958383669"
-    },
-    {
-      "id": 1354958392602,
-      "actividad": "Jos\u00e9 Luis Labad",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Encuentro con autor",
-      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
-      "hora": "19:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958392602"
     },
     {
       "id": 1354958422493,
@@ -818,18 +782,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958614733"
     },
     {
-      "id": 1354958618430,
-      "actividad": "Cuentos de Magia",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958618430"
-    },
-    {
       "id": 1354958618718,
       "actividad": "Una pizca de sal",
       "edad": "Infantil",
@@ -852,30 +804,6 @@
         "2023-10-28"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958620242"
-    },
-    {
-      "id": 1354958622443,
-      "actividad": "Los animales cuentan",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca P\u00fablica Moncloa-Aravaca Jos\u00e9 Acu\u00f1a",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958622443"
-    },
-    {
-      "id": 1354958631211,
-      "actividad": "Ciencia en tu barrio: Nanotecnolog\u00eda. De los videojuegos al laboratorio",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
-      "hora": "11:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958631211"
     },
     {
       "id": 1354958642589,
@@ -1025,18 +953,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958696323"
     },
     {
-      "id": 1354958737641,
-      "actividad": "Torneo eSports",
-      "edad": "Juvenil",
-      "tipo": "Concurso",
-      "biblioteca": "Biblioteca P\u00fablica Centro Pedro Salinas",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958737641"
-    },
-    {
       "id": 1354958737918,
       "actividad": "Torneo eSports",
       "edad": "Juvenil",
@@ -1109,18 +1025,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958746501"
     },
     {
-      "id": 1354958746646,
-      "actividad": "Internet y las nuevas formas de acceder a la informaci\u00f3n",
-      "edad": "Adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
-      "hora": "11:30",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958746646"
-    },
-    {
       "id": 1354958755628,
       "actividad": "Itinerario La historia de la Casa de Campo",
       "edad": "Adultos",
@@ -1131,18 +1035,6 @@
         "2023-11-07"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958755628"
-    },
-    {
-      "id": 1354958757271,
-      "actividad": "Correcci\u00f3n de textos",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Carabanchel Luis Rosales",
-      "hora": "18:30",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958757271"
     },
     {
       "id": 1354958758168,
@@ -1301,31 +1193,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958766008"
     },
     {
-      "id": 1354958784642,
-      "actividad": "Inform\u00e1tica b\u00e1sica",
-      "edad": "Adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "16:00",
-      "fechas": [
-        "2023-10-23",
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958784642"
-    },
-    {
-      "id": 1354958792039,
-      "actividad": "Ellos tambi\u00e9n son as\u00ed",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Encuentro con autor",
-      "biblioteca": "Biblioteca P\u00fablica Retiro Elena Fort\u00fan",
-      "hora": "18:30",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958792039"
-    },
-    {
       "id": 1354958792127,
       "actividad": "Sintiendo el camino",
       "edad": "J\u00f3venes y adultos",
@@ -1397,31 +1264,6 @@
         "2023-11-11"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958815597"
-    },
-    {
-      "id": 1354958844947,
-      "actividad": "De novela gr\u00e1fica",
-      "edad": "Adultos",
-      "tipo": "Club de lectura",
-      "biblioteca": "Biblioteca P\u00fablica Puente de Vallecas Miguel Hern\u00e1ndez",
-      "hora": "19:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958844947"
-    },
-    {
-      "id": 1354958844966,
-      "actividad": "45 a\u00f1os haciendo cultura",
-      "edad": "Para todos los p\u00fablicos",
-      "tipo": "Exposici\u00f3n",
-      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
-      "hora": "09:00",
-      "fechas": [
-        "2023-10-02",
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958844966"
     },
     {
       "id": 1354958846542,
@@ -1600,18 +1442,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958887763"
     },
     {
-      "id": 1354958889706,
-      "actividad": "Crea tu propia exposici\u00f3n en el Palacio de Cristal",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca Municipal Petra Ram\u00edrez",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958889706"
-    },
-    {
       "id": 1354958896037,
       "actividad": "Arte por la salud mental",
       "edad": "Para todos los p\u00fablicos",
@@ -1708,18 +1538,6 @@
         "2023-10-28"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958940557"
-    },
-    {
-      "id": 1354958941250,
-      "actividad": "Harry Potter Book Day",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca Municipal Miguel Hern\u00e1ndez",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958941250"
     },
     {
       "id": 1354958942477,
@@ -1877,18 +1695,6 @@
         "2023-11-15"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958977415"
-    },
-    {
-      "id": 1354958979852,
-      "actividad": "S. A. Cosby",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Encuentro con autor",
-      "biblioteca": "Biblioteca P\u00fablica Centro Pedro Salinas",
-      "hora": "19:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958979852"
     },
     {
       "id": 1354958982358,
@@ -2120,18 +1926,6 @@
         "2023-10-31"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959031355"
-    },
-    {
-      "id": 1354959031472,
-      "actividad": "Donde viven los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-27"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959031472"
     },
     {
       "id": 1354959032490,
