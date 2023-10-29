@@ -734,18 +734,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958612203"
     },
     {
-      "id": 1354958613146,
-      "actividad": "Sol, solecito",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca P\u00fablica Puente de Vallecas Miguel Hern\u00e1ndez",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958613146"
-    },
-    {
       "id": 1354958613376,
       "actividad": "Alimentaci\u00f3n con S: Saludable y Sostenible",
       "edad": "J\u00f3venes y adultos",
@@ -780,30 +768,6 @@
         "2023-10-31"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958614733"
-    },
-    {
-      "id": 1354958618718,
-      "actividad": "Una pizca de sal",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "11:30",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958618718"
-    },
-    {
-      "id": 1354958620242,
-      "actividad": "Treasure Island",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca P\u00fablica Carabanchel Luis Rosales",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958620242"
     },
     {
       "id": 1354958642589,
@@ -939,30 +903,6 @@
         "2023-11-23"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958692572"
-    },
-    {
-      "id": 1354958696323,
-      "actividad": "Adornos de Halloween",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958696323"
-    },
-    {
-      "id": 1354958737918,
-      "actividad": "Torneo eSports",
-      "edad": "Juvenil",
-      "tipo": "Concurso",
-      "biblioteca": "Biblioteca P\u00fablica Latina Antonio Mingote",
-      "hora": "11:00",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958737918"
     },
     {
       "id": 1354958738927,
@@ -1169,18 +1109,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958763971"
     },
     {
-      "id": 1354958763990,
-      "actividad": "Atr\u00e9vete a sentir",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Encuentro con autor",
-      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958763990"
-    },
-    {
       "id": 1354958766008,
       "actividad": "Correcci\u00f3n de textos",
       "edad": "J\u00f3venes y adultos",
@@ -1191,18 +1119,6 @@
         "2023-11-21"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958766008"
-    },
-    {
-      "id": 1354958792127,
-      "actividad": "Sintiendo el camino",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Encuentro con autor",
-      "biblioteca": "Biblioteca P\u00fablica Retiro Elena Fort\u00fan",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958792127"
     },
     {
       "id": 1354958804493,
@@ -1290,18 +1206,6 @@
         "2023-10-30"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958847002"
-    },
-    {
-      "id": 1354958847120,
-      "actividad": "Phanton Manor",
-      "edad": "Infantil",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
-      "hora": "11:30",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958847120"
     },
     {
       "id": 1354958847828,
@@ -1430,18 +1334,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958883633"
     },
     {
-      "id": 1354958887763,
-      "actividad": "Los futbol\u00edsimos: 10\u00ba Aniversario",
-      "edad": "Infantil y Juvenil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Villaverde Mar\u00eda Moliner",
-      "hora": "10:00",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958887763"
-    },
-    {
       "id": 1354958896037,
       "actividad": "Arte por la salud mental",
       "edad": "Para todos los p\u00fablicos",
@@ -1526,18 +1418,6 @@
         "2023-11-17"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958937955"
-    },
-    {
-      "id": 1354958940557,
-      "actividad": "El mago Rat\u00f3n",
-      "edad": "Familiar",
-      "tipo": "Cuentacuentos",
-      "biblioteca": "Biblioteca Municipal Miguel Hern\u00e1ndez",
-      "hora": "11:30",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958940557"
     },
     {
       "id": 1354958942477,
@@ -1758,30 +1638,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959004334"
     },
     {
-      "id": 1354959009201,
-      "actividad": "Donde viven los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Chamber\u00ed Jos\u00e9 Luis Sampedro",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959009201"
-    },
-    {
-      "id": 1354959009678,
-      "actividad": "La biblioteca de los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Retiro Elena Fort\u00fan",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959009678"
-    },
-    {
       "id": 1354959010967,
       "actividad": "Luisa Carn\u00e9s. Im\u00e1genes de una vida apasionada",
       "edad": "Para todos los p\u00fablicos",
@@ -1854,18 +1710,6 @@
         "2023-11-03"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959018360"
-    },
-    {
-      "id": 1354959028247,
-      "actividad": "La biblioteca de los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-28"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959028247"
     },
     {
       "id": 1354959028668,
