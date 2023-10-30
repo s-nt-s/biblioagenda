@@ -566,18 +566,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958567103"
     },
     {
-      "id": 1354958570352,
-      "actividad": "Libros en familia",
-      "edad": "Familiar",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Villa de Vallecas Luis Mart\u00edn-Santos",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-29"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958570352"
-    },
-    {
       "id": 1354958570439,
       "actividad": "Libros en familia",
       "edad": "Familiar",
@@ -612,18 +600,6 @@
         "2023-12-17"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958570779"
-    },
-    {
-      "id": 1354958572712,
-      "actividad": "Libros en familia",
-      "edad": "Familiar",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-29"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958572712"
     },
     {
       "id": 1354958572994,
@@ -903,18 +879,6 @@
         "2023-11-23"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958692572"
-    },
-    {
-      "id": 1354958738927,
-      "actividad": "Torneo eSports",
-      "edad": "Juvenil",
-      "tipo": "Concurso",
-      "biblioteca": "Biblioteca P\u00fablica Villa de Vallecas Luis Mart\u00edn-Santos",
-      "hora": "11:00",
-      "fechas": [
-        "2023-10-29"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958738927"
     },
     {
       "id": 1354958739029,
@@ -1712,18 +1676,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959018360"
     },
     {
-      "id": 1354959028668,
-      "actividad": "La biblioteca de los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Carabanchel Luis Rosales",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-29"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959028668"
-    },
-    {
       "id": 1354959030386,
       "actividad": "La biblioteca de los monstruos",
       "edad": "Infantil",
@@ -2051,18 +2003,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959063413"
     },
     {
-      "id": 1354959063707,
-      "actividad": "Catriona Ward",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Encuentro con autor",
-      "biblioteca": "Unidad Central de Bibliotecas P\u00fablicas (Comunidad de Madrid)",
-      "hora": "19:00",
-      "fechas": [
-        "2023-10-29"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959063707"
-    },
-    {
       "id": 1354959064104,
       "actividad": "\u00bfQu\u00e9 esconde una piedra?",
       "edad": "Infantil",
@@ -2145,18 +2085,6 @@
         "2023-11-15"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959072959"
-    },
-    {
-      "id": 1354959073751,
-      "actividad": "Tejemonstruitos",
-      "edad": "Familiar",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Usera Jos\u00e9 Hierro",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-29"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959073751"
     },
     {
       "id": 1354959076245,
@@ -2677,12 +2605,6 @@
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=635",
       "ubicacion": "Cenicientos",
       "mapa": "https://www.google.es/maps/place/Calle+de+la+de+los+Ca%C3%B1os,+1,+28650+Cenicientos,+Madrid/@40.2655358,-4.471501,17z/data=!3m1!4b1!4m5!3m4!1s0xd404bcd7b4d65a3:0x6b5a7dc76927c69b!8m2!3d40.2655317!4d-4.4693123"
-    },
-    {
-      "nombre": "Unidad Central de Bibliotecas P\u00fablicas (Comunidad de Madrid)",
-      "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=2525",
-      "ubicacion": "Madrid - Centro",
-      "mapa": "http://maps.google.es/maps?q=c%2F+Alcal%C3%A1+31&hl=es&ie=UTF8&ll=40.418397,-3.698444&spn=0.008185,0.01929&sll=40.396764,-3.713379&sspn=8.38053,19.753418&z=16"
     }
   ]
 }
