@@ -709,30 +709,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958613376"
     },
     {
-      "id": 1354958614377,
-      "actividad": "Recursos de la biblioteca a tu alcance_eBiblio Madrid",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
-      "hora": "12:00",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958614377"
-    },
-    {
-      "id": 1354958614733,
-      "actividad": "Inform\u00e1tica b\u00e1sica",
-      "edad": "Adultos",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
-      "hora": "10:00",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958614733"
-    },
-    {
       "id": 1354958642589,
       "actividad": "\"Los ins\u00f3litos de Usera\" Club de lectura",
       "edad": "Adultos",
@@ -779,19 +755,6 @@
         "2023-11-25"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958666394"
-    },
-    {
-      "id": 1354958688762,
-      "actividad": "Derechos en el objetivo",
-      "edad": "Para todos los p\u00fablicos",
-      "tipo": "Exposici\u00f3n",
-      "biblioteca": "Biblioteca P\u00fablica Villa de Vallecas Luis Mart\u00edn-Santos",
-      "hora": "09:00",
-      "fechas": [
-        "2023-10-07",
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958688762"
     },
     {
       "id": 1354958689717,
@@ -1059,19 +1022,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958804493"
     },
     {
-      "id": 1354958804534,
-      "actividad": "Escritoras",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Exposici\u00f3n",
-      "biblioteca": "Biblioteca P\u00fablica Centro Pedro Salinas",
-      "hora": "09:00",
-      "fechas": [
-        "2023-10-02",
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958804534"
-    },
-    {
       "id": 1354958811862,
       "actividad": "Taller Technovation. Programa chicas y tecnolog\u00eda GRUPO PRINCIPIANTES",
       "edad": "Infantil y Juvenil",
@@ -1146,19 +1096,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958868912"
     },
     {
-      "id": 1354958869179,
-      "actividad": "De ni\u00f1a a cient\u00edfica. Ni rosa ni azul, materia gris",
-      "edad": "Para todos los p\u00fablicos",
-      "tipo": "Exposici\u00f3n",
-      "biblioteca": "Biblioteca Municipal Miguel de Cervantes",
-      "hora": "09:00",
-      "fechas": [
-        "2023-10-01",
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958869179"
-    },
-    {
       "id": 1354958870133,
       "actividad": "Dibujantes espa\u00f1oles de Batman",
       "edad": "Para todos los p\u00fablicos",
@@ -1195,19 +1132,6 @@
         "2023-11-19"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958883633"
-    },
-    {
-      "id": 1354958896037,
-      "actividad": "Arte por la salud mental",
-      "edad": "Para todos los p\u00fablicos",
-      "tipo": "Exposici\u00f3n",
-      "biblioteca": "Biblioteca P\u00fablica Puente de Vallecas Miguel Hern\u00e1ndez",
-      "hora": "09:00",
-      "fechas": [
-        "2023-10-02",
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958896037"
     },
     {
       "id": 1354958898015,
@@ -1573,78 +1497,6 @@
         "2023-11-03"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959018360"
-    },
-    {
-      "id": 1354959030386,
-      "actividad": "La biblioteca de los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Centro Pedro Salinas",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959030386"
-    },
-    {
-      "id": 1354959030804,
-      "actividad": "La biblioteca de los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Fuencarral-El Pardo Rafael Alberti",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959030804"
-    },
-    {
-      "id": 1354959031237,
-      "actividad": "La biblioteca de los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Villa de Vallecas Luis Mart\u00edn-Santos",
-      "hora": "17:30",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959031237"
-    },
-    {
-      "id": 1354959031355,
-      "actividad": "La biblioteca de los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Puente de Vallecas Miguel Hern\u00e1ndez",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959031355"
-    },
-    {
-      "id": 1354959032490,
-      "actividad": "Donde viven los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Latina Antonio Mingote",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959032490"
-    },
-    {
-      "id": 1354959032628,
-      "actividad": "Donde viven los monstruos",
-      "edad": "Infantil",
-      "tipo": "Taller",
-      "biblioteca": "Biblioteca P\u00fablica Moratalaz Javier Mar\u00edas",
-      "hora": "18:00",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959032628"
     },
     {
       "id": 1354959034046,
@@ -2047,18 +1899,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959081829"
     },
     {
-      "id": 1354959084238,
-      "actividad": "Presentaci\u00f3n de la adaptaci\u00f3n a lectura f\u00e1cil de la novela Bunner",
-      "edad": "J\u00f3venes y adultos",
-      "tipo": "Presentaci\u00f3n de libro",
-      "biblioteca": "Biblioteca P\u00fablica Centro Pedro Salinas",
-      "hora": "18:30",
-      "fechas": [
-        "2023-10-31"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354959084238"
-    },
-    {
       "id": 1354959087009,
       "actividad": "Cuenta formas",
       "edad": "Infantil",
@@ -2312,12 +2152,6 @@
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=107",
       "ubicacion": "Collado Villalba - Barrio de la Estaci\u00f3n",
       "mapa": "http://maps.google.es/maps?f=q&hl=es&q=batalla+de+bailen,+13,+collado+villalba,+madrid&ie=UTF8&z=17&om=1&iwloc=A"
-    },
-    {
-      "nombre": "Biblioteca Municipal Miguel de Cervantes",
-      "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=5036",
-      "ubicacion": "Algete",
-      "mapa": "https://www.google.com/maps/place/C.+de+la+Paloma,+1,+28110+Algete,+Madrid/@40.59507,-3.5047449,17z/data=!3m1!4b1!4m6!3m5!1s0xd43cca70fe0e6c5:0x63a84f3e831da785!8m2!3d40.59507!4d-3.50217!16s%2Fg%2F11c5cftmh_?entry=ttu"
     },
     {
       "nombre": "Biblioteca Municipal Petra Ram\u00edrez",
