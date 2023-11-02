@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "id": 1354957010579,
-      "actividad": "El poder de Heka",
-      "edad": "Para todos los p\u00fablicos",
-      "tipo": "Exposici\u00f3n",
-      "biblioteca": "Biblioteca Municipal Ana Mar\u00eda Matute",
-      "hora": "09:00",
-      "fechas": [
-        "2023-10-12",
-        "2023-11-01"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354957010579"
-    },
-    {
       "id": 1354957011085,
       "actividad": "El poder de Heka",
       "edad": "Para todos los p\u00fablicos",
@@ -102,19 +89,6 @@
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958280481"
     },
     {
-      "id": 1354958280755,
-      "actividad": "XXXVIII Muestra del Libro Infantil y Juvenil",
-      "edad": "Para todos los p\u00fablicos",
-      "tipo": "Exposici\u00f3n",
-      "biblioteca": "Biblioteca Municipal de El Escorial",
-      "hora": "09:30",
-      "fechas": [
-        "2023-10-19",
-        "2023-11-01"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958280755"
-    },
-    {
       "id": 1354958281259,
       "actividad": "XXXVIII Muestra del Libro Infantil y Juvenil",
       "edad": "Para todos los p\u00fablicos",
@@ -126,19 +100,6 @@
         "2023-11-08"
       ],
       "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958281259"
-    },
-    {
-      "id": 1354958281642,
-      "actividad": "XXXVIII Muestra del Libro Infantil y Juvenil",
-      "edad": "Para todos los p\u00fablicos",
-      "tipo": "Exposici\u00f3n",
-      "biblioteca": "Biblioteca Municipal de Talamanca de Jarama",
-      "hora": "10:00",
-      "fechas": [
-        "2023-10-26",
-        "2023-11-01"
-      ],
-      "url": "http://www.madrid.org/cs/Satellite?c=PLEC_Generico_FA&pagename=PortalLector%2FPLEC_Generico_FA%2FPLEC_fichaActividad&cid=1354958281642"
     },
     {
       "id": 1354958289633,
@@ -2190,12 +2151,6 @@
       "mapa": "http://maps.google.es/maps?q=carretera+villar+del+olmo,+4+campo+real&hl=es&ll=40.339921,-3.374348&spn=0.009502,0.013797&sll=40.2085,-3.713&sspn=19.465287,28.256836&hnear=Carretera+Villar+del+Olmo,+4,+Campo+Real,+Madrid&t=m&z=16"
     },
     {
-      "nombre": "Biblioteca Municipal de El Escorial",
-      "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=139",
-      "ubicacion": "Escorial (El)",
-      "mapa": "http://maps.google.es/maps?f=q&hl=es&q=plaza+de+espa%C3%B1a,+el+escorial,+Madrid,+Comunidad+de+Madrid+espa%C3%B1a&ie=UTF8&z=17&om=1&iwloc=A"
-    },
-    {
       "nombre": "Biblioteca Municipal de El \u00c1lamo",
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=81",
       "ubicacion": "\u00c1lamo (El)",
@@ -2218,12 +2173,6 @@
       "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=243",
       "ubicacion": "Sevilla la Nueva",
       "mapa": "https://www.google.com/maps?sca_esv=566193960&rlz=1C1GCEV_esES902ES902&output=search&q=Plaza+de+Sevilla,+2+28609+Sevilla+la+Nueva+(Madrid)&source=lnms&entry=mc&sa=X&ved=2ahUKEwjlsNGSxrOBAxVIcKQEHdWjDp0Q0pQJegQICxAB"
-    },
-    {
-      "nombre": "Biblioteca Municipal de Talamanca de Jarama",
-      "url": "http://www.bibliotecasdemadrid.org/directorio_publicacion/i18n/comunidades/registro.cmd?id=245",
-      "ubicacion": "Talamanca de Jarama",
-      "mapa": "https://www.google.com/maps/place/Calle+de+la+Fuente+del+Arca,+19,+28160+Talamanca,+Madrid,+Espa%C3%B1a/@40.745095,-3.509419,15z/data=!4m2!3m1!1s0xd43c5f78beb258b:0xf29db5479c2bc274?hl=es"
     },
     {
       "nombre": "Biblioteca Municipal de Tielmes",
